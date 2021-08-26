@@ -1,0 +1,96 @@
+Author: Henry Gomez
+Description: Script to create tables into Data Base.
+
+
+CREATE TABLE STREET (
+	street_id VARCHAR(5) PRIMARY KEY,
+    street_name VARCHAR(30),
+    street_slope REAL,
+    street_latitude REAL,
+    street_longitude REAL
+);
+
+CREATE TABLE STATION (
+	station_id INT PRIMARY KEY,
+    street_id VARCHAR(5),
+    station_name VARCHAR(30),
+    station_latitude REAL,
+    station_longitude REAL,
+    station_access VARCHAR(5)
+);
+
+CREATE TABLE TOILET (
+	toilet_id INT PRIMARY KEY,\
+    street_id VARCHAR(5),
+    toilet_name VARCHAR(30),
+    toilet_latitude REAL,
+    toilet_longitude REAL,
+    toilet_access VARCHAR(5),
+    toilet_gender VARCHAR(10)
+);
+
+CREATE TABLE PARKING (
+	parking_id INT PRIMARY KEY,
+    street_id VARCHAR(5),
+    parking_name VARCHAR(30),
+    parking_latitude REAL,
+    parking_longitude REAL,
+    parking_access VARCHAR(5)
+);
+
+CREATE TABLE SENSOR (
+	sensor_id INT PRIMARY KEY,
+	sensor_description VARCHAR(100),
+	sensor_name VARCHAR(20),
+	sensor_installation_date VARCHAR(20),
+	sensor_status VARCHAR(5),
+	sensor_note VARCHAR(50),
+	sensor_direction_1 VARCHAR(20),
+	sensor_direction_2 VARCHAR(20),
+	sensor_latitude VARCHAR(20),
+	sensor_longitude VARCHAR(20), 
+	sensor_location VARCHAR(100)
+);
+
+CREATE TABLE COUNTING (
+	counting_id INT PRIMARY KEY,
+    counting_date_time VARCHAR(50),
+    counting_year VARCHAR(10),
+	counting_month VARCHAR(20),
+	counting_mdate INT,
+	counting_day VARCHAR(20),
+	counting_time INT,
+	sensor_id INT,
+	sensor_name VARCHAR(20),
+	counting_hourly INT
+);
+
+CREATE TABLE VENUE (
+	venue_id INT PRIMARY KEY,
+    street_id VARCHAR(5),
+    venue_name VARCHAR(30),
+    venue_type VARCHAR(10),
+    venue_latitude REAL,
+    venue_longitude REAL,
+    venue_access VARCHAR(5)
+);
+
+CREATE TABLE SERVICE (
+	service_id INT PRIMARY KEY,
+    street_id VARCHAR(5),
+    service_name VARCHAR(30),
+    service_type VARCHAR(10),
+    service_latitude REAL,
+    service_longitude REAL,
+    service_access VARCHAR(5)
+);
+
+CREATE TABLE HOTSPOT (
+	hotspot_id INT PRIMARY KEY,
+    street_id VARCHAR(5),
+    hotspot_name VARCHAR(30),
+    hotspot_latitude REAL,
+    hotspot_longitude REAL,
+    hotspot_access VARCHAR(5)
+);
+
