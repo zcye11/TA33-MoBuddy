@@ -1,0 +1,78 @@
+sensor_description,sensor_latitude,sensor_longitude,sensor_avg_count,sensor_category
+Elizabeth St - La Trobe St (East),-37.80988941,144.96134331,0,low
+Little Collins St - Swanston St (East),-37.81414074,144.9660938,375,high
+RMIT Building 14,-37.80767455,144.96309115,196,medium
+Birrarung Marr,-37.81862929,144.97169395,148,medium
+Flinders St - ACMI,-37.81726337,144.96872809,197,medium
+La Trobe St (North),-37.80996494,144.96216521,105,medium
+231 Bourke St,-37.81333081,144.96675572,243,medium
+Sandridge Bridge,-37.82011242,144.96291898,217,medium
+Flinders La - Swanston St (West),-37.81668633,144.96689733,1062,high
+Melbourne Convention Exhibition Centre,-37.82401776,144.95604426,509,high
+Flinders La - Swanston St (West) Temporary,-37.81668188,144.9668954,0,low
+Royal Pde - Grattan St,-37.79949544,144.95792282,93,low
+Alfred Place,-37.81379749,144.96995745,62,low
+Collins Place (South),-37.81362542,144.97323592,209,medium
+Swanston St - City Square,-37.81569416,144.96680641,270,medium
+State Library - New,-37.81057845,144.96444294,473,high
+State Library,-37.81064378,144.96447132,0,low
+Flinders Ln - Degraves St (South),-37.81688755,144.9656257,251,medium
+Melbourne Central - Elizabeth St (East),-37.81160331,144.96220077,496,high
+Flinders Ln - Degraves St (North),-37.81684789,144.96559789,122,medium
+Flinders Ln - Degraves St (Crossing),-37.81687225,144.96559145,94,low
+Melbourne Central,-37.81101523,144.96429485,300,high
+St Kilda Rd - Alexandra Gardens,-37.81965808,144.96863453,110,medium
+Errol Street (East),-37.80456984,144.94946229,111,medium
+Westwood Place,-37.81235775,144.97136962,29,low
+Flinders St - Spring St (West),-37.81483252,144.97454056,0,low
+Flagstaff Station,-37.81239679,144.95652653,0,low
+New Quay,-37.81457987,144.94292398,159,medium
+Collins Street (North),-37.8156419,144.965499,333,high
+Southern Cross Station,-37.81982992,144.95102556,160,medium
+Lonsdale St (South),-37.81121849,144.96656807,263,medium
+Flinders Street Station Underpass,-37.81911704,144.96558256,590,high
+Flinders St - Swanston St (West),-37.81723437,144.96715033,0,low
+City Square,-37.81573742,144.96685718,0,low
+Town Hall (West),-37.81487988,144.9660878,770,high
+Pelham St (South),-37.80240719,144.96156731,34,low
+Lonsdale St - Elizabeth St (North),-37.81234775,144.96153311,171,medium
+Grattan St - Swanston St (West),-37.80008565,144.96386412,84,low
+Princes Bridge,-37.81874249,144.96787656,793,high
+Faraday St - Lygon St (West),-37.79808191,144.96721014,188,medium
+Elizabeth St - Lonsdale St (South),-37.81252157,144.9619401,192,medium
+Bourke Street Mall (South),-37.81380667,144.96516719,370,high
+Bourke Street Mall (North),-37.8134944,144.96515324,635,high
+Building 80 RMIT,-37.80825648,144.96304859,266,medium
+Chinatown - Lt Bourke St (South),-37.81172913,144.9682466,178,medium
+Flinders St - Spark La,-37.81537985,144.9741505,50,low
+Bourke St Bridge,-37.8176735,144.95025595,264,medium
+Lonsdale St - Spring St (West),-37.80999341,144.97227588,124,medium
+Lygon St (West),-37.8016968,144.96658911,151,medium
+Chinatown - Swanston St (North),-37.81237202,144.96550671,295,medium
+Lygon St (East),-37.80310271,144.96671452,104,medium
+Queen St (West),-37.81652527,144.96121063,140,medium
+Bourke St - Spencer St (North),-37.81686074,144.95358075,323,high
+Webb Bridge,-37.82293543,144.94717511,131,medium
+Waterfront City,-37.81564989,144.93970695,42,low
+Collins Place (North),-37.81344861,144.97305354,112,medium
+QVM - Therry St (South),-37.80730067,144.95956055,93,low
+QV Market - Elizabeth St (West),-37.80869542,144.96049404,305,high
+Australia on Collins,-37.81573423,144.96521044,596,high
+Flinders St - Elizabeth St (East),-37.81786445,144.96506823,805,high
+Spencer St - Collins St (North),-37.81887962,144.95449198,392,high
+QV Market - Peel St,-37.80606888,144.95644693,83,low
+The Arts Centre,-37.82129924,144.96879309,553,high
+Tin Alley - Swanston St (West),-37.79690473,144.96440378,37,low
+QVM - Queen St (East),-37.80631581,144.95866698,135,medium
+QVM - Franklin St (North),-37.80841814,144.95906317,85,low
+Victoria Point,-37.81876473,144.94710545,51,low
+Monash Rd - Swanston St (West),-37.79844525,144.96411782,85,low
+Bourke St - Spencer St (South),-37.81695684,144.95415373,48,low
+Spring St - Flinders st (West),-37.81515275,144.97467662,36,low
+Spencer St - Collins St (South),-37.81909256,144.95452749,155,medium
+Lincoln - Swanston (West),-37.804024,144.963084,49,low
+Macaulay Rd - Bellair St,-37.79453802,144.93036194,44,low
+Bourke St - Russell St (West),-37.81244703,144.96778757,311,high
+Harbour Esplanade (West) - Bike Path,-37.81471642,144.9446508,19,low
+Harbour Esplanade (West) - Pedestrian path,-37.81441438,144.94433026,87,low
+Southbank,-37.82017828,144.96508877,294,medium
