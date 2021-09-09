@@ -1,0 +1,52 @@
+FacilityID,Name,FacilityType,Address1,Town,Latitude,Longitude,Parking,ParkingAccessible,KeyRequired,OpeningHours,Male,Female,Unisex,AllGender,Accessible,LHTransfer,RHTransfer
+4363,Flinders Street Station,Train station,Flinders Street,Melbourne,-37.81823386,144.9669741,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+4367,Melbourne Central City Loop,Train station,La Trobe Street,Melbourne,-37.80981201,144.9628186,FALSE,FALSE,FALSE,"OPEN: Mon-Sat 5:30am-12am, Sun 8:30am-11pm",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+4395,Flagstaff City Loop,Train station,La Trobe Street,Melbourne,-37.81195695,144.9561421,FALSE,FALSE,FALSE,OPEN: Mon-Fri 5:30am-12am,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+11517,Melbourne Town Hall,Other,200 Collins Street,Melbourne,-37.81514484,144.9669443,FALSE,TRUE,FALSE,OPEN: 7am-7pm,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+11518,General Post Office (Underground),Other,Elizabeth & Bourke Street,Melbourne,-37.81380315,144.9631334,FALSE,FALSE,FALSE,"OPEN: Mon-Fri 7:30am-6pm, Sat-Sun 8:30am-5pm",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+11521,Yarra River Bank,Park or reserve,Batman Avenue,Melbourne,-37.82100129,144.9759404,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+11522,Toilet 3 : Queensbridge Street,Other,Queensbridge Street & Flinders Street,Melbourne,-37.81940044,144.9612814,FALSE,FALSE,FALSE,Currently closed,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+11528,La Trobe Street,Other,La trobe Street & Russell Street,Melbourne,-37.80891248,144.9656716,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+11532,Flinders Street,Other,Exhibition Street & Flinders Street,Melbourne,-37.81598252,144.9728242,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+11535,Queensberry Street,Other,278-284 Queensberry Street,Melbourne,-37.8039452,144.9590501,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+11538,585 Lonsdale Street,Car park,King Street & Lonsdale Street,Melbourne,-37.81434326,144.9551145,TRUE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+11981,Bowen Crescent Reserve,Park or reserve,Bowen Crescent,Melbourne,-37.83553499,144.9733124,TRUE,TRUE,FALSE,OPEN: Daylight hours,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+12601,Riverslide Skate Park,Park or reserve,1 Boathouse Drive,Melbourne,-37.8203652,144.9733432,TRUE,TRUE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+12602,Kings Domain,Park or reserve,Alexandra Avenue,Melbourne,-37.8228095,144.9751411,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+12604,Kings Domain Shrine of Remembrance,Park or reserve,Kings Domain South 44-200 Domain Road MELBOURNE VIC 3004,Melbourne,-37.83058305,144.9753548,TRUE,FALSE,FALSE,OPEN: 6am-9pm,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+13626,Station Pier - Outer West,Other,Pier Street,Melbourne,-37.8461487,144.9306358,FALSE,FALSE,FALSE,Currently closed,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+16974,Exhibition Street & Lonsdale Street,Other,Lonsdale Street & Exhibition Street,Melbourne,-37.81002923,144.9699245,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+17333,Swanston Street & Victoria Street,Other,Swanston Street,Melbourne,-37.80686945,144.9626567,FALSE,FALSE,FALSE,OPEN: 7am-5pm,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+17608,Toilet 4 : Market Street & Collins Street,Other,Market Street & Collins Street,Melbourne,-37.81756139,144.9603089,FALSE,FALSE,FALSE,Currently closed,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+17674,Government House Drive,Park or reserve,"Government House Drive, Kings Domain",Melbourne,-37.8269196,144.9746481,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+17678,Exhibition Street,Other,Across from 265 Exhibition Street,Melbourne,-37.8094781,144.969341,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+18175,Collins Place,Shopping centre,45 Collins Street,Melbourne,-37.814009,144.972077,TRUE,TRUE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+18237,Queen Victoria Market,Shopping centre,Corner Elizabeth & Victoria Streets,Melbourne,-37.80682305,144.9588139,TRUE,FALSE,FALSE,"OPEN: Mon,Thu 2am-3pm, Tue,Thu-Fri 2am-5pm, Sat-Sun 2am-7pm",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+18239,QV,Shopping centre,Corner Lonsdale & Swanston Streets,Melbourne,-37.81080858,144.9649768,TRUE,TRUE,FALSE,"OPEN: Mon-Thu 10am-6pm, Fri 10am-9pm, Sat-Sun 10am-6pm",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+18253,The Walk Arcade,Shopping centre,Bourke Street,Melbourne,-37.81421293,144.9643134,FALSE,FALSE,TRUE,"OPEN: Mon-Wed,Sat 9am-5pm, Thu 9am-7pm, Fri 9am-9pm, Sun 10am-5pm",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+19310,Batman Park,Park or reserve,Spencer Street,Melbourne,-37.82168484,144.9556146,FALSE,FALSE,FALSE,OPEN: 6am-12am,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+19316,Domain Road,Park or reserve,169 Domain Road,Melbourne,-37.83389707,144.9817536,TRUE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+19324,Franklin Street,Other,465 Elizabeth Street,Melbourne,-37.80823705,144.9601833,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+34699,Nursery,Park or reserve,Birdwood Avenue,Melbourne,-37.8324347,144.9797515,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+34701,Touchwood,Park or reserve,Alexandra Avenue,Melbourne,-37.82951167,144.9820956,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+40017,Commercial Road,Park or reserve,55 Commercial Rd,Melbourne,-37.84520425,144.9826252,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40095,Fawkner Park,Park or reserve,152-154 Toorak Rd West,Melbourne,-37.83820341,144.9844404,FALSE,TRUE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+40097,Alexandra Park,Park or reserve,Alexandra Avenue,Melbourne,-37.82761036,144.9818325,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40219,Flinders Street,Train station,245 Flinders St,Melbourne,-37.81792284,144.9663305,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40225,Queen Street,Other,113 Queen St,Melbourne,-37.81584891,144.9610804,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40227,Lonsdale Street,Other,424 Lonsdale St,Melbourne,-37.81294323,144.9600293,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40267,Bourke Street,Other,225 Bourke St,Melbourne,-37.81325309,144.9669585,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+40497,David Jones - Bourke Street,Shopping centre,310 Bourke Street,Melbourne,-37.813309,144.964402,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+42185,Queen Victoria Gardens,Park or reserve,Linlithgow Avenue Melbourne,Melbourne,-37.82294755,144.9710037,FALSE,TRUE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+42421,Airport West Service Centre,Other,10 Louis Street,Melbourne,-37.714511,144.888713,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+43191,Queen Victoria Market,Other,456 Queen Street,Melbourne,-37.80788846,144.9579528,TRUE,TRUE,FALSE,"OPEN: Sat-Sun 4am-7pm, Tue,Thu-Fri 4am-5pm, Wed 6am-9:50pm",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+43193,Birrarung Marr Park,Park or reserve,Princes Walk Melbourne,Melbourne,-37.81860384,144.9711354,FALSE,FALSE,FALSE,OPEN: 24 hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+43197,Queen Victoria Market,Other,159 Victoria Street,Melbourne,-37.8063998,144.9590201,FALSE,FALSE,FALSE,"OPEN: Tue,Thu-Fri 6am-5pm, Sat-Sun 6am-7pm, Wed 8am-9:50pm",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+43201,Queen Victoria Market,Other,153 Victoria Street MELBOURNE VIC 3000,Melbourne,-37.80616528,144.9566889,FALSE,FALSE,FALSE,"OPEN: Wed 5am-3pm, Mon 5am-4pm, Tue,Thu-Fri 3am-5pm, Sat-Sun 3am-7pm",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+50677,Sofitel Melbourne on Collins,Other,25 Collins Street,Melbourne,-37.8141189,144.9728415,TRUE,TRUE,FALSE,OPEN: Daylight hours,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+54089,271 Spring Street,Food outlet,271 Spring Street,Melbourne,-37.80879095,144.9711321,FALSE,FALSE,FALSE,OPEN: Daylight hours,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+54111,Rod Laver Arena,Other,Olympic Boulevard,Melbourne,-37.8216833,144.9785474,FALSE,FALSE,FALSE,OPEN: Variable hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+55157,Alfred Hospital,Other,55 Commercial Road,Melbourne,-37.84550871,144.9820577,FALSE,FALSE,FALSE,OPEN: 7am-8pm,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+57106,Melbourne Central - Elizabeth Street,Shopping centre,360 Elizabeth Street,Melbourne,-37.81063448,144.9623575,FALSE,FALSE,FALSE,OPEN: 24 hours,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+57108,Melbourne Central Food Court,Shopping centre,360 Elizabeth Street,Melbourne,-37.81056667,144.9621107,FALSE,FALSE,FALSE,"OPEN: Sat-Wed 10am-7pm, Thu-Fri 10am-9pm",TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+57210,The Atrium,Other,Swanston Street,Melbourne,-37.8174181,144.9694638,FALSE,FALSE,FALSE,OPEN: 6am-11:30pm,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE

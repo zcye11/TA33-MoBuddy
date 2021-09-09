@@ -1,0 +1,52 @@
+id,name,address,keyRequired,openHours,parkInfo,gender,access,latitude,longitude
+4363,Flinders Street Station,Flinders Street,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.81823386,144.9669741
+4367,Melbourne Central City Loop,La Trobe Street,False,"OPEN: Mon-Sat 5:30am-12am, Sun 8:30am-11pm","No Parking, Parking Accessible","Male, Female",Accessible,-37.80981201,144.9628186
+4395,Flagstaff City Loop,La Trobe Street,False,OPEN: Mon-Fri 5:30am-12am,"No Parking, Parking Accessible","Male, Female",Accessible,-37.81195695,144.9561421
+11517,Melbourne Town Hall,200 Collins Street,False,OPEN: 7am-7pm,"No Parking, Parking Accessible","Male, Female",Information not available,-37.81514484,144.96694425
+11518,General Post Office (Underground),Elizabeth & Bourke Street,False,"OPEN: Mon-Fri 7:30am-6pm, Sat-Sun 8:30am-5pm","No Parking, Parking Accessible","Male, Female",Information not available,-37.81380315,144.96313336
+11521,Yarra River Bank,Batman Avenue,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Information not available,-37.82100129,144.97594036
+11522,Toilet 3 : Queensbridge Street,Queensbridge Street & Flinders Street,False,Currently closed,"No Parking, Parking Accessible","Male, Female",Accessible,-37.81940044,144.96128142
+11528,La Trobe Street,La trobe Street & Russell Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Male,Information not available,-37.80891248,144.96567163
+11532,Flinders Street,Exhibition Street & Flinders Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Male,Information not available,-37.81598252,144.97282423
+11535,Queensberry Street,278-284 Queensberry Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Male,Information not available,-37.8039452,144.95905008
+11538,585 Lonsdale Street,King Street & Lonsdale Street,False,OPEN: 24 hours,"Parking, Parking Accessible",Unisex,Accessible,-37.81434326,144.95511454
+11981,Bowen Crescent Reserve,Bowen Crescent,False,OPEN: Daylight hours,"Parking, Parking Accessible","Male, Female",Information not available,-37.83553499,144.97331236
+12601,Riverslide Skate Park,1 Boathouse Drive,False,OPEN: 24 hours,"Parking, Parking Accessible","Male, Female",Accessible,-37.8203652,144.9733432
+12602,Kings Domain,Alexandra Avenue,False,OPEN: 24 hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.8228095,144.9751411
+12604,Kings Domain Shrine of Remembrance,Kings Domain South 44-200 Domain Road MELBOURNE VIC 3004,False,OPEN: 6am-9pm,"Parking, Parking Accessible","Male, Female",Accessible,-37.83058305,144.9753548
+13626,Station Pier - Outer West,Pier Street,False,Currently closed,"No Parking, Parking Accessible","Male, Female",Accessible,-37.8461487,144.9306358
+16974,Exhibition Street & Lonsdale Street,Lonsdale Street & Exhibition Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81002923,144.96992451
+17333,Swanston Street & Victoria Street,Swanston Street,False,OPEN: 7am-5pm,"No Parking, Parking Accessible",Female,Information not available,-37.80686945,144.96265666
+17608,Toilet 4 : Market Street & Collins Street,Market Street & Collins Street,False,Currently closed,"No Parking, Parking Accessible",Unisex,Accessible,-37.81756139,144.96030886
+17674,Government House Drive,"Government House Drive, Kings Domain",False,OPEN: 24 hours,"No Parking, Parking Accessible","Male, Female",Information not available,-37.8269196,144.9746481
+17678,Exhibition Street,Across from 265 Exhibition Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Male,Information not available,-37.8094781,144.96934102
+18175,Collins Place,45 Collins Street,False,OPEN: 24 hours,"Parking, Parking Accessible","Male, Female",Accessible,-37.814009,144.972077
+18237,Queen Victoria Market,Corner Elizabeth & Victoria Streets,False,"OPEN: Mon,Thu 2am-3pm, Tue,Thu-Fri 2am-5pm, Sat-Sun 2am-7pm","Parking, Parking Accessible","Male, Female",Information not available,-37.80682305,144.95881386
+18239,QV,Corner Lonsdale & Swanston Streets,False,"OPEN: Mon-Thu 10am-6pm, Fri 10am-9pm, Sat-Sun 10am-6pm","Parking, Parking Accessible","Male, Female",Accessible,-37.81080858,144.96497675
+18253,The Walk Arcade,Bourke Street,True,"OPEN: Mon-Wed,Sat 9am-5pm, Thu 9am-7pm, Fri 9am-9pm, Sun 10am-5pm","No Parking, Parking Accessible",Female,Accessible,-37.81421293,144.96431337
+19310,Batman Park,Spencer Street,False,OPEN: 6am-12am,"No Parking, Parking Accessible",Unisex,Information not available,-37.82168484,144.95561464
+19316,Domain Road,169 Domain Road,False,OPEN: 24 hours,"Parking, Parking Accessible",Unisex,Accessible,-37.83389707,144.98175356
+19324,Franklin Street,465 Elizabeth Street,False,OPEN: 24 hours,"No Parking, Parking Accessible",Information not available,Accessible,-37.80823705,144.96018328
+34699,Nursery,Birdwood Avenue,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.8324347,144.97975147
+34701,Touchwood,Alexandra Avenue,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.82951167,144.98209556
+40017,Commercial Road,55 Commercial Rd,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.84520425,144.98262523
+40095,Fawkner Park,152-154 Toorak Rd West,False,OPEN: 24 hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.83820341,144.98444042
+40097,Alexandra Park,Alexandra Avenue,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.82761036,144.98183252
+40219,Flinders Street,245 Flinders St,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81792284,144.96633052
+40225,Queen Street,113 Queen St,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81584891,144.96108042
+40227,Lonsdale Street,424 Lonsdale St,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81294323,144.96002925
+40267,Bourke Street,225 Bourke St,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81325309,144.9669585
+40497,David Jones - Bourke Street,310 Bourke Street,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Information not available,-37.813309,144.964402
+42185,Queen Victoria Gardens,Linlithgow Avenue Melbourne,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.82294755,144.97100365
+42421,Airport West Service Centre,10 Louis Street,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Information not available,-37.714511,144.888713
+43191,Queen Victoria Market,456 Queen Street,False,"OPEN: Sat-Sun 4am-7pm, Tue,Thu-Fri 4am-5pm, Wed 6am-9:50pm","Parking, Parking Accessible",Unisex,Information not available,-37.80788846,144.95795284
+43193,Birrarung Marr Park,Princes Walk Melbourne,False,OPEN: 24 hours,"No Parking, Parking Accessible",Unisex,Accessible,-37.81860384,144.97113538
+43197,Queen Victoria Market,159 Victoria Street,False,"OPEN: Tue,Thu-Fri 6am-5pm, Sat-Sun 6am-7pm, Wed 8am-9:50pm","No Parking, Parking Accessible","Male, Female",Information not available,-37.8063998,144.9590201
+43201,Queen Victoria Market,153 Victoria Street MELBOURNE VIC 3000,False,"OPEN: Wed 5am-3pm, Mon 5am-4pm, Tue,Thu-Fri 3am-5pm, Sat-Sun 3am-7pm","No Parking, Parking Accessible",Unisex,Accessible,-37.80616528,144.95668888
+50677,Sofitel Melbourne on Collins,25 Collins Street,False,OPEN: Daylight hours,"Parking, Parking Accessible","Male, Female",Accessible (Left-Hand Transfer),-37.8141189,144.9728415
+54089,271 Spring Street,271 Spring Street,False,OPEN: Daylight hours,"No Parking, Parking Accessible",Unisex,Accessible (Right-Hand Transfer),-37.80879095,144.97113212
+54111,Rod Laver Arena,Olympic Boulevard,False,OPEN: Variable hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.8216833,144.9785474
+55157,Alfred Hospital,55 Commercial Road,False,OPEN: 7am-8pm,"No Parking, Parking Accessible","Male, Female",Accessible,-37.84550871,144.98205773
+57106,Melbourne Central - Elizabeth Street,360 Elizabeth Street,False,OPEN: 24 hours,"No Parking, Parking Accessible","Male, Female",Accessible,-37.81063448,144.9623575
+57108,Melbourne Central Food Court,360 Elizabeth Street,False,"OPEN: Sat-Wed 10am-7pm, Thu-Fri 10am-9pm","No Parking, Parking Accessible","Male, Female",Accessible,-37.81056667,144.96211074
+57210,The Atrium,Swanston Street,False,OPEN: 6am-11:30pm,"No Parking, Parking Accessible","Male, Female",Accessible,-37.8174181,144.9694638

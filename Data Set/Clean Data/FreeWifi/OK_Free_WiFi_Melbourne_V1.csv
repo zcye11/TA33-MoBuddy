@@ -1,0 +1,392 @@
+freewifi_name,freewifi_address,freewifi_latitude,freewifi_longitude,freewifi_status
+MEL-0001,Docklands Dr (South),-37.814671,144.938586,FUTURE
+MEL-0008,Victor Habour Prom,-37.815686,144.939954,FUTURE
+MEL-0051,Elizabeth St & Bourke St,-37.814409,144.963048,UP
+MEL-0083,179 Collins Street,-37.815209,144.967911,UP
+MEL-0203,Queens Bridge,-37.821666,144.961152,UP
+MEL-0246,King St,-37.811853,144.953493,UP
+MEL-0283,201 Russell Street,-37.811786,144.967491,UP
+MEL-0301,S/E Corner Lonsdale And Exhibition Streets,-37.810176,144.969844,FUTURE
+MEL-0372,Collins St,-37.818856,144.954272,UP
+MEL-0377,Docklands Dr (North),-37.814173,144.938991,FUTURE
+MEL-0403,La Trobe St,-37.812228,144.954318,UP
+MEL-0454,Se  Corner Of Swanston St And Pelham St,-37.8026559,144.963798,UP
+MEL-0726,Exhibition St,-37.808624,144.968855,FUTURE
+MEL-1002,Sw Corner Flinders Lane & Elizabeth Street ,-37.8153517,144.963528,UP
+MEL-1004,40 -50 Queen St,-37.8176755,144.962072,UP
+MEL-1009,233 Collins Street ,-37.8157655,144.965997,FUTURE
+MEL-1012,Oustide 1 Collins Street ,-37.8134902,144.973724,FUTURE
+MEL-1023,Opposite 48 Nicholson Street ,-37.8055503,144.973469,UP
+MEL-0014,Harbour Esp,-37.814895,144.944722,UP
+MEL-0015,Corner Of Harbour And Latrobe St,-37.815059,144.94542,UP
+MEL-0016,Latrobe St,-37.814718,144.946493,UP
+MEL-0017,Harbour Esp,-37.816378,144.945281,UP
+MEL-0022,S/W Corner Of Latrobe And Spencer St,-37.81332,144.951311,UP
+MEL-0025,Spencer St,-37.815947,144.952891,UP
+MEL-0026,Spencer St & Bourke St,-37.817134,144.953501,UP
+MEL-0028,Bourke St,-37.816502,144.955676,UP
+MEL-0029,King St,-37.815934,144.955639,UP
+MEL-0030,King St,-37.814768,144.955139,UP
+MEL-0031,Lt Collins St & King St,-37.817415,144.956375,UP
+MEL-0035,Bourke St,-37.816143,144.956987,UP
+MEL-0037,William St,-37.815144,144.958134,UP
+MEL-0038,Se Corner Of Bourke St & William St,-37.815699,144.95846,UP
+MEL-0042,Bourke St,-37.815411,144.958768,UP
+MEL-0044,Lt Collins St,-37.816213,144.960344,UP
+MEL-0045,Lt Collins St,-37.816099,144.960778,UP
+MEL-0046,Se Corner Of Little Collins St & Queen St,-37.816019,144.961351,UP
+MEL-0053,Bourke St,-37.814468,144.962738,UP
+MEL-0054,Bourke St,-37.814734,144.961816,UP
+MEL-0058,Nw Corner Of Little Bourke St & Queen St (200 Queen St),-37.813782,144.960304,UP
+MEL-0059,Queen,-37.813089,144.959984,UP
+MEL-0060,S/E Corner Of William St & Lonsdale St,-37.813863,144.957192,UP
+MEL-0061,Collins St,-37.816714,144.962148,UP
+MEL-0065,Elizabeth St,-37.814681,144.963479,UP
+MEL-0075,Sw Corner Of Bourke St & Swanston St,-37.813614,144.965584,UP
+MEL-0082,Collins St,-37.815468,144.966937,UP
+MEL-0084,Collins St,-37.815978,144.965116,UP
+MEL-0085,Collins St & Elizabeth St,-37.816294,144.964226,UP
+MEL-0095,Corner Of Russell St & Flinders Lane,-37.81561,144.969535,UP
+MEL-0097,S/W Corner Of Collins St And Russell Street,-37.814953,144.968807,UP
+MEL-0099,Russell St,-37.813962,144.968775,UP
+MEL-0103,101 Collins Street,-37.814217,144.970567,UP
+MEL-0105,Se Corner Flinders St  & Malthouse Lane,-37.8151404,144.971708,UP
+MEL-0106,Exhibition St,-37.815076,144.972081,UP
+MEL-0108,20-66 Flinders Lane,-37.814562,144.973317,UP
+MEL-0115,Flinders,-37.816775,144.970184,UP
+MEL-0117,Wellington Pde,-37.81513,144.975026,UP
+MEL-0119,Wellington Pde,-37.815427,144.977637,UP
+MEL-0121,Wellington Pde,-37.81563,144.979364,UP
+MEL-0124,Spring St,-37.812335,144.973641,UP
+MEL-0129,Sw Corner Of Treasury Place And Lansdwone St,-37.812699,144.977701,UP
+MEL-0133,Spring St (Outside Parliament),-37.811925,144.973163,UP
+MEL-0134,2 Bourke St,-37.811324,144.972807,UP
+MEL-0137,Little Bourke St,-37.810295,144.97242,UP
+MEL-0146,N/W Corner Of Spring Street And Londsdale Street,-37.809353,144.971893,UP
+MEL-0179,Wellington Pde & Clarendon St,-37.815943,144.98243,UP
+MEL-0182,Clarendon St,-37.811794,144.983185,UP
+MEL-0201,Queens Bridge,-37.820958,144.96126,UP
+MEL-0204,Ne Corner Flinders & Market St,-37.819132,144.961154,UP
+MEL-0207,332 Flinders Street,-37.81843,144.963732,UP
+MEL-0213,Flinders St,-37.819637,144.959518,UP
+MEL-0214,Flinders St,-37.820534,144.956431,UP
+MEL-0215,Flinders St,-37.820415,144.9578,UP
+MEL-0216,Flinders St,-37.820882,144.956091,UP
+MEL-0228,Nw Corner Spencer St & Flinders St,-37.820879,144.954746,UP
+MEL-0231,Harbour Esp (East),-37.818812,144.946872,UP
+MEL-0232,Spencer St,-37.819223,144.954102,UP
+MEL-0242,Harbour Esp,-37.81788,144.945935,UP
+MEL-0244,La Trobe St,-37.812333,144.953712,UP
+MEL-0249,Corner Of Singer Ln & Latrobe St,-37.811443,144.957115,UP
+MEL-0251,William St,-37.810629,144.955758,UP
+MEL-0252,William St,-37.809962,144.955466,UP
+MEL-0256,Peel St-Qvicmarketshede,-37.806834,144.955983,UP
+MEL-0259,Latrobe St,-37.810454,144.960476,UP
+MEL-0260,Sw Corner Of Latrobe St & Elizabeth St,-37.810463,144.961233,UP
+MEL-0261,Elizabeth St,-37.810831,144.961467,UP
+MEL-0262,Elizabeth St,-37.811543,144.961797,UP
+MEL-0264,435-437 Elizabeth St,-37.808768,144.960482,UP
+MEL-0265,473-481 Elizabeth Street,-37.807741,144.960053,UP
+MEL-0268,Swanston St,-37.809015,144.963439,UP
+MEL-0277,Elizabeth & Lonsdale St,-37.812155,144.962079,UP
+MEL-0281,Lonsdale St,-37.811368,144.965792,UP
+MEL-0285,141 Lonsdale Street,-37.810634,144.968269,UP
+MEL-0287,La Trobe St,-37.808823,144.966787,UP
+MEL-0294,Elizabeth St,-37.804472,144.958548,UP
+MEL-0298,Swanston St,-37.802139,144.963801,UP
+MEL-0302,Lonsdale St,-37.809829,144.970208,UP
+MEL-0306,Bourke St & Exhibition St,-37.812117,144.970777,UP
+MEL-0307,59-69 Bourke St,-37.811909,144.971453,UP
+MEL-0309,Outside 109 Little Collins Street ,-37.8133229,144.970228,FUTURE
+MEL-0311,Bourke St,-37.812558,144.969238,UP
+MEL-0314,192 Flinders Street,-37.816839,144.9692,UP
+MEL-0315,Se Corner  Swanston & Flinders,-37.8176424,144.967639,UP
+MEL-0319,Flinders,-37.817997,144.965041,UP
+MEL-0320,Elizabeth St,-37.817552,144.964837,UP
+MEL-0321,Elizabeth St,-37.817014,144.964575,UP
+MEL-0328,Collins St & Queen,-37.816925,144.961806,UP
+MEL-0330,45-55 William St (Ajs Terrace),-37.818124,144.959207,UP
+MEL-0331,Collins St,-37.817457,144.960069,UP
+MEL-0333,William St,-37.81865,144.959445,UP
+MEL-0335,Sw Corner Of Collins St & King St,-37.818623,144.956661,UP
+MEL-0337,Se Corner King St & Little Bourke St,-37.815439,144.955425,UP
+MEL-0338,187-197 Elizabeth St,-37.813783,144.962826,UP
+MEL-0339,215-217 Elizabeth St,-37.813431,144.962668,UP
+MEL-0341,30 Flinders Street,-37.815264,144.97453,UP
+MEL-0342,1 Macarthur Street,-37.812223,144.974559,UP
+MEL-0343,Spring St,-37.810835,144.972687,UP
+MEL-0344,Macarther Street,-37.809657,144.975525,UP
+MEL-0347,Corner William St & Latrobe St,-37.811925,144.956338,UP
+MEL-0350,Ne Corner Of Peel St And Victoria St (308 Victoria St),-37.805804,144.956199,UP
+MEL-0351,222 Exhibition St,-37.810983,144.970184,UP
+MEL-0352,15 Southern Cross Lane (113-149 Bourke St),-37.812335,144.969875,UP
+MEL-0353,Elizabeth St,-37.816768,144.96446,UP
+MEL-0354,Se Corner Collins St & William,-37.817655,144.959385,UP
+MEL-0360,Ne Corner Of Albert St And Gisbourne St (430 Albert St),-37.8095355,144.975958,UP
+MEL-0362,624-628 Bourke Street,-37.816571,144.954649,UP
+MEL-0363,Bourke St,-37.816093,144.957206,UP
+MEL-0365,Bourke St,-37.815177,144.960264,UP
+MEL-0366,Bourke St,-37.814623,144.962257,UP
+MEL-0369,Clarendon St,-37.822407,144.955842,UP
+MEL-0370,Clarendon St,-37.824018,144.956606,UP
+MEL-0375,45 Collins St,-37.8138488,144.972526,UP
+MEL-0376,S/W Corner Of Collins St And Exhibition St,-37.814,144.9719,UP
+MEL-0379,489 Elizabeth St,-37.80733845,144.9599818,UP
+MEL-0382,Elizabeth St,-37.8049716,144.958778,UP
+MEL-0385,261 Elizabeth St,-37.81268,144.962319,UP
+MEL-0386,Elizabeth St,-37.8156916,144.963976,UP
+MEL-0388,Nw Corner Of Elizabeth St And A'Beckett St (415 Elizabeth St),-37.809144,144.960696,UP
+MEL-0389,Exhibition St,-37.8104294,144.970014,UP
+MEL-0392,172 Flinders Street,-37.817054,144.968425,UP
+MEL-0394,Flinders,-37.8166846,144.97054,UP
+MEL-0395,Flinders,-37.816093,144.971761,UP
+MEL-0396,Market St,-37.818443,144.960569,UP
+MEL-0397,Flinders St,-37.819536,144.960664,UP
+MEL-0398,Harbour Esp,-37.814296,144.944514,UP
+MEL-0399,Harbour Esp,-37.81688,144.945504,UP
+MEL-0400,Harbour Esp,-37.817379,144.94572,UP
+MEL-0405,La Trobe St,-37.808868,144.965864,UP
+MEL-0406,La Trobe St,-37.8086473,144.967244,UP
+MEL-0407,Landsdowne,-37.813265,144.977615,UP
+MEL-0408,Landsdowne,-37.81222,144.977778,UP
+MEL-0409,Latrobe St,-37.814304,144.946959,UP
+MEL-0412,Lonsdale St,-37.811467,144.965352,UP
+MEL-0414,Lonsdale St,-37.812027,144.962723,UP
+MEL-0415,Opposite 29-31 Market St,-37.8187224,144.960908,UP
+MEL-0418,Peel St-Qvicmarketshedk ,-37.8073606,144.955833,UP
+MEL-0419,Peel St-Qvicmarketshedc�   ,-37.8064983,144.955995,UP
+MEL-0420,113-117 Peel St,-37.805316,144.955884,UP
+MEL-0421,160 Queen Street ,-37.8148046,144.960754,UP
+MEL-0430,Russell St,-37.812126,144.967701,UP
+MEL-0432,La Trobe St,-37.809435,144.963961,UP
+MEL-0433,Spencer St,-37.813555,144.951726,UP
+MEL-0434,Spencer St,-37.814191,144.95207,UP
+MEL-0435,Spencer St,-37.815524,144.952694,UP
+MEL-0436,Spencer St,-37.81664,144.952918,UP
+MEL-0437,Spencer St,-37.817879,144.953734,UP
+MEL-0438,Spencer St,-37.818579,144.953995,UP
+MEL-0439,Spencer St,-37.819609,144.954247,UP
+MEL-0440,Spencer St,-37.820309,144.954859,UP
+MEL-0451,Ne Corner Of Swanston St And Victoria St,-37.8065478,144.963142,UP
+MEL-0452,Swanston St,-37.805656,144.963247,UP
+MEL-0453,Swanston St,-37.8044896,144.963448,UP
+MEL-0459,Wellington Pde,-37.815712,144.980167,UP
+MEL-0461,William St,-37.816322,144.95841,UP
+MEL-0462,William St,-37.814924,144.958063,UP
+MEL-0463,William St,-37.81417,144.957367,UP
+MEL-0464,William St,-37.813254,144.957287,UP
+MEL-0465,William St,-37.81194,144.956663,UP
+MEL-0466,William St,-37.811343,144.956297,UP
+MEL-0467,William St,-37.8094918,144.955461,UP
+MEL-0469,Clarendon St,-37.823643,144.956069,UP
+MEL-0470,Peel St-Qvicmarketsheda�,-37.80601,144.956085,UP
+MEL-0500,Parliament Station - Ml_Platform 1 & 2,-37.8122331,144.9742191,UP
+MEL-0501,Parliament Station - Ml_Platform 1 & 2,-37.8120871,144.9740154,UP
+MEL-0502,Parliament Station - Ml_Platform 1 & 2,-37.8111336,144.973527,UP
+MEL-0503,Parliament Station - Ml_Platform 1 & 2,-37.8106759,144.9734961,UP
+MEL-0504,Parliament Station - Ml_Platform 1 & 2,-37.81082,144.9731219,UP
+MEL-0505,Parliament Station - Ml_Platform 1 & 2,-37.8114134,144.9734041,UP
+MEL-0506,Parliament Station - Ml_Platform 1 & 2,-37.8113201,144.9737185,UP
+MEL-0507,Parliament Station - Ml_Platform 1 & 2,-37.8118668,144.9739411,UP
+MEL-0508,Parliament Station - Ml_Platform 3 & 4,-37.8116888,144.9735776,UP
+MEL-0509,Parliament Station - Ml_Platform 3 & 4,-37.8110404,144.9733053,UP
+MEL-0510,Parliament Station - Ml_Platform 3 & 4,-37.8115998,144.9739161,UP
+MEL-0511,Parliament Station - Ml_Platform 3 & 4,-37.8106308,144.9733072,UP
+MEL-0512,Parliament Station - Ml_Platform 3 & 4,-37.8103923,144.97301,UP
+MEL-0513,Parliament Station - Ml_Platform 3 & 4,-37.8114506,144.9736558,UP
+MEL-0514,Parliament Station - Ml_Platform 3 & 4,-37.8102755,144.9733339,UP
+MEL-0515,Parliament Station - Ml_Platform 3 & 4,-37.81095,144.9736343,UP
+MEL-0516,Parliament Station - Ml_ North Concourse,-37.8097984,144.972481,UP
+MEL-0517,Parliament Station - Ml_South Concourse,-37.8122049,144.9736933,UP
+MEL-0518,Parliament Station - Ml_South Concourse,-37.8123645,144.9738435,UP
+MEL-0519,Flagstaff Station - Ml_Platform 3 & 4,-37.812215,144.954093,UP
+MEL-0520,Flagstaff Station - Ml_Platform 3 & 4,-37.812135,144.954378,UP
+MEL-0521,Flagstaff Station - Ml_Platform 3 & 4,-37.812058,144.954635,UP
+MEL-0522,Flagstaff Station - Ml_Platform 3 & 4,-37.811969,144.955032,UP
+MEL-0523,Flagstaff Station - Ml_Platform 3 & 4,-37.811855,144.95537,UP
+MEL-0524,Flagstaff Station - Ml_Platform 3 & 4,-37.811774,144.955762,UP
+MEL-0525,Flagstaff Station - Ml_Platform 3 & 4,-37.811673,144.956116,UP
+MEL-0526,Flagstaff Station - Ml_Platform 3 & 4,-37.811927,144.956261,UP
+MEL-0527,Flagstaff Station - Ml_Platform 1 & 2,-37.812037,144.955939,UP
+MEL-0528,Flagstaff Station - Ml_Platform 1 & 2,-37.812179,144.955499,UP
+MEL-0529,Flagstaff Station - Ml_Platform 1 & 2,-37.812245,144.955199,UP
+MEL-0530,Flagstaff Station - Ml_Platform 1 & 2,-37.812308,144.954469,UP
+MEL-0531,Flagstaff Station - Ml_Platform 1 & 2,-37.812215,144.95478,UP
+MEL-0532,Flagstaff Station - Ml_Platform 1 & 2,-37.812071,144.955231,UP
+MEL-0533,Flagstaff Station - Ml_Platform 1 & 2,-37.811978,144.955633,UP
+MEL-0534,Flagstaff Station - Ml_Platform 1 & 2,-37.811851,144.956025,UP
+MEL-0535,Flagstaff Station - Ml_Concourse Area ,-37.812139,144.956132,UP
+MEL-0536,Flagstaff Station - Ml_Concourse Area ,-37.812266,144.956186,UP
+MEL-0537,Flagstaff Station - Ml_Concourse Area ,-37.812338,144.956089,UP
+MEL-0538,Melbourne Central Station - Ml_Platform 3 & 4,-37.810391,144.961899,UP
+MEL-0539,Melbourne Central Station - Ml_Platform 3 & 4,-37.810348,144.962113,UP
+MEL-0540,Melbourne Central Station - Ml_Platform 3 & 4,-37.810315,144.962269,UP
+MEL-0541,Melbourne Central Station - Ml_Platform 3 & 4,-37.810288,144.962434,UP
+MEL-0542,Melbourne Central Station - Ml_Platform 3 & 4,-37.810216,144.962652,UP
+MEL-0543,Melbourne Central Station - Ml_Platform 3 & 4,-37.810168,144.962788,UP
+MEL-0544,Melbourne Central Station - Ml_Platform 3 & 4,-37.810089,144.963013,UP
+MEL-0545,Melbourne Central Station - Ml_Platform 3 & 4,-37.810024,144.963224,UP
+MEL-0546,Melbourne Central Station - Ml_Platform 1 & 2,-37.809968,144.963197,UP
+MEL-0547,Melbourne Central Station - Ml_Platform 1 & 2,-37.810027,144.962976,UP
+MEL-0548,Melbourne Central Station - Ml_Platform 1 & 2,-37.81008,144.962801,UP
+MEL-0549,Melbourne Central Station - Ml_Platform 1 & 2,-37.810191,144.962556,UP
+MEL-0550,Melbourne Central Station - Ml_Platform 1 & 2,-37.8102,144.962407,UP
+MEL-0551,Melbourne Central Station - Ml_Platform 1 & 2,-37.810257,144.962195,UP
+MEL-0552,Melbourne Central Station - Ml_Platform 1 & 2,-37.81028,144.962072,UP
+MEL-0553,Melbourne Central Station - Ml_Platform 1 & 2,-37.810289,144.96194,UP
+MEL-0554,Melbourne Central Station - Ml_Concourse Area,-37.810115,144.962681,UP
+MEL-0555,Melbourne Central Station - Ml_Concourse Area,-37.810157,144.962685,UP
+MEL-0556,Melbourne Central Station - Ml_Concourse Area,-37.810171,144.962489,UP
+MEL-0557,Melbourne Central Station - Ml_Concourse Area,-37.810219,144.962478,UP
+MEL-0558,Melbourne Central Station - Ml_Concourse Area,-37.81021,144.96236,UP
+MEL-0559,Southern Cross Station - Scs_Platform,-37.818651,144.951837,UP
+MEL-0560,Southern Cross Station - Scs_Platform,-37.817999,144.951258,UP
+MEL-0561,Southern Cross Station - Scs_Platform,-37.818503,144.951896,UP
+MEL-0562,Southern Cross Station - Scs_Platform,-37.817969,144.951483,UP
+MEL-0563,Southern Cross Station - Scs_Platform,-37.818422,144.952207,UP
+MEL-0564,Southern Cross Station - Scs_Platform,-37.817914,144.951751,UP
+MEL-0565,Southern Cross Station - Scs_Platform,-37.818363,144.952395,UP
+MEL-0566,Southern Cross Station - Scs_Platform,-37.817799,144.95195,UP
+MEL-0567,Southern Cross Station - Scs_Platform,-37.818198,144.952513,UP
+MEL-0568,Southern Cross Station - Scs_Platform,-37.817651,144.952089,UP
+MEL-0569,Southern Cross Station - Scs_Platform,-37.817994,144.952803,UP
+MEL-0570,Southern Cross Station - Scs_Platform,-37.817617,144.952534,UP
+MEL-0571,Southern Cross Station - Scs_Concourse,-37.816871,144.952669,UP
+MEL-0572,Southern Cross Station - Scs_Concourse,-37.818884,144.953382,UP
+MEL-0573,Southern Cross Station - Scs_Concourse (Upstairs),-37.818962,144.953353,UP
+MEL-0574,Flinders Street Station - Ml_Platform1/2,-37.819002,144.965653,UP
+MEL-0575,Flinders Street Station - Ml_Platform1/2,-37.818875,144.9663,UP
+MEL-0576,Flinders Street Station - Ml_Platform1/2,-37.818816,144.966675,UP
+MEL-0577,Flinders Street Station - Ml_Platform3/4,-37.818774,144.965997,UP
+MEL-0578,Flinders Street Station - Ml_Platform3/4,-37.81868,144.966439,UP
+MEL-0579,Flinders Street Station - Ml_Platform3/4,-37.818606,144.966775,UP
+MEL-0580,Flinders Street Station - Ml_Platform5/6,-37.818621,144.966034,UP
+MEL-0581,Flinders Street Station - Ml_Platform5/6,-37.818547,144.966404,UP
+MEL-0582,Flinders Street Station - Ml_Platform5/6,-37.818462,144.966705,UP
+MEL-0583,Flinders Street Station - Ml_Platform7/8,-37.818492,144.9659,UP
+MEL-0584,Flinders Street Station - Ml_Platform7/8,-37.818371,144.9663355,UP
+MEL-0585,Flinders Street Station - Ml_Platform7/8,-37.818286,144.966638,UP
+MEL-0586,Flinders Street Station - Ml_Platform9/10,-37.818363,144.965846,UP
+MEL-0587,Flinders Street Station - Ml_Platform9/10,-37.818265,144.966182,UP
+MEL-0588,Flinders Street Station - Ml_Platform9/10,-37.818155,144.966557,UP
+MEL-0589,Flinders Street Station - Ml_Platform11/12,-37.818015,144.966541,UP
+MEL-0590,Flinders Street Station - Ml_Platform11/12,-37.818138,144.966077,UP
+MEL-0591,Flinders Street Station - Ml_Platform11/12,-37.818312,144.965519,UP
+MEL-0592,Flinders Street Station - Concourse,-37.818496,144.967327,UP
+MEL-0593,Flinders Street Station - Concourse,-37.818106,144.967112,UP
+MEL-0594,Melbourne Visitors Centre - Federation Square,-37.817654,144.967807,UP
+MEL-0595,Melbourne Visitors Centre - Federation Square,-37.817633,144.968018,UP
+MEL-0596,Queen Victoria Market Shed L,-37.806363,144.957236,UP
+MEL-0597,Queen Victoria Market Shed Rk/Rl,-37.806518,144.957054,UP
+MEL-0598,Queen Victoria Market Shed K,-37.806732,144.957161,UP
+MEL-0599,Queen Victoria Market Shed E,-37.806884,144.956919,UP
+MEL-0600,Queen Victoria Market Shed D,-37.807113,144.957118,UP
+MEL-0601,Queen Victoria Market Shed C,-37.807226,144.956871,UP
+MEL-0602,Queen Victoria Market Shed B,-37.807476,144.956965,UP
+MEL-0603,Queen Victoria Market Shed A,-37.807695,144.956825,UP
+MEL-0604,Queen Victoria Market Shed I,-37.807165,144.958245,UP
+MEL-0605,Bourke St Mall Tourist Info East,-37.81389,144.964444,UP
+MEL-0606,Bourke St Mall Tourist Info West,-37.813916,144.964413,UP
+MEL-0607,Bourke St Mall Tourist Info West,-37.813942,144.964382,UP
+MEL-0608,Bourke St Mall Tourist Info West,-37.813968,144.964351,UP
+MEL-0609,Mcec-Pole 1-South Wharf Promenade,-37.8244315,144.954832,UP
+MEL-0610,Mcec Pole 2-South Wharf Promenade,-37.824188,144.954296,UP
+MEL-0611,Mcec-Pole 3-South Wharf Promenade,-37.824016,144.954277,UP
+MEL-0612,Mcec-Pole 4-South Wharf Promenade,-37.823912,144.954875,UP
+MEL-0613,Mcec-Pole 5-South Wharf Promenade,-37.823804,144.95539,UP
+MEL-0614,Fitzroy Garden Visitor Centre North ,-37.814856,144.979295,UP
+MEL-0615,Fitzroy Garden Visitor Centre South,-37.814939,144.979361,UP
+MEL-0616,Fitzroy Garden Visitor Centre,-37.815149,144.979291,UP
+MEL-0617,Fitzroy Garden Visitor Centre,-37.814976,144.979259,UP
+MEL-0618,Southern Cross Station - Bourke St Footbridge,-37.817667,144.951412,UP
+MEL-0619,Southern Cross Station - Bourke St Footbridge,-37.817602,144.951649,UP
+MEL-0620,Southern Cross Station - Bourke St Footbridge,-37.817542,144.951872,UP
+MEL-0621,Southern Cross Station - Bourke St Footbridge,-37.817467,144.952136,UP
+MEL-0622,Southern Cross Station - Bourke St Footbridge,-37.817389,144.952391,UP
+MEL-0623,Southern Cross Station - Bourke St Footbridge,-37.81728,144.952604,UP
+MEL-0624,Southern Cross Station - Bourke St Footbridge,-37.817275,144.95274,UP
+MEL-0625,Southern Cross Station - Scs_Concourse,-37.819072,144.953155,UP
+MEL-0626,Southern Cross Station - Scs_Concourse,-37.818987,144.95304,UP
+MEL-0627,Southern Cross Station - Scs_Concourse,-37.818953,144.953192,UP
+MEL-0628,Southern Cross Station - Scs_Concourse,-37.818864,144.95371,UP
+MEL-0629,Southern Cross Station - Scs_Concourse,-37.818807,144.95367,UP
+MEL-0630,Southern Cross Station - Scs_Concourse,-37.81853,144.953318,UP
+MEL-0631,Southern Cross Station - Scs_Concourse,-37.818258,144.953179,UP
+MEL-0632,Southern Cross Station - Scs_Concourse,-37.817621,144.95271,UP
+MEL-0633,Southern Cross Station - Scs_Concourse,-37.817871,144.95316,UP
+MEL-0634,Southern Cross Station - Scs_Concourse,-37.817676,144.952997,UP
+MEL-0635,Southern Cross Station - Scs_Concourse,-37.818987,144.95272,UP
+MEL-0636,Southern Cross Station - Scs_Concourse,-37.819028,144.952608,UP
+MEL-0637,Southern Cross Station - Scs_Concourse,-37.819057,144.952495,UP
+MEL-0638,Southern Cross Station - Scs_Concourse,-37.818854,144.953662,UP
+MEL-0639,Flinders Street Station - Concourse,-37.817848,144.967073,UP
+MEL-0640,Flinders Street Station - Concourse,-37.817954,144.967336,UP
+MEL-0641,Flinders Street Station - Concourse,-37.818005,144.967245,UP
+MEL-0642,Flinders Street Station - Concourse,-37.818521,144.96737,UP
+MEL-0643,Flinders Street Station - Concourse,-37.818336,144.967272,UP
+MEL-0644,Flinders Street Station - Concourse,-37.818181,144.967332,UP
+MEL-0671,Flagstaff Station - Ml Entrance,-37.811714,144.956102,UP
+MEL-0677,Parliament Station - Entrance,-37.812179,144.973877,UP
+MEL-0678,Parliament Station - Entrance,-37.811611,144.973025,UP
+MEL-0679,Parliament Station - Entrance,-37.809415,144.972688,UP
+MEL-0680,Parliament Station - Entrance,-37.809551,144.972315,UP
+MEL-0714,Bourke St & Exhibition St,-37.811973,144.970387,UP
+MEL-0715,Exhibition St,-37.812959,144.971049,UP
+MEL-0716,Collins St,-37.816283,144.963417,UP
+MEL-0725,120 Collins St,-37.814485,144.969561,UP
+MEL-0727,265-275 Exhibition St,-37.80935,144.969195,UP
+MEL-0728,159 Lonsdale Street,-37.810768,144.967855,UP
+MEL-0729,Lonsdale St,-37.810437,144.968193,UP
+MEL-0730,Russell St & Mackenzie Street,-37.807634,144.965902,UP
+MEL-0733,La Trobe St,-37.810823,144.960006,UP
+MEL-0734,Bourke St,-37.813161,144.967215,UP
+MEL-0738,45 Exhibition St (Outside Collins Place),-37.814747,144.971896,UP
+MEL-0739,102 Exhibition Street,-37.813594,144.971158,UP
+MEL-0741,Queen St,-37.815791,144.960908,FUTURE
+MEL-0747,Abeckett,-37.809425,144.960001,UP
+MEL-0756,Market,-37.818512,144.962156,UP
+MEL-0761,Lonsdale St,-37.812741,144.960298,UP
+MEL-0762,Queen St,-37.810597,144.958536,UP
+MEL-0765,42-44 Lonsdale Street,-37.809659,144.970915,UP
+MEL-0766,Exhibition St,-37.811655,144.970239,UP
+MEL-0790,562-566 Little Bourke St Melbourne Vic 3000,-37.815158,144.955702,UP
+MEL-0800,Parliament Station - Ml_Platform 1 & 2,-37.8119503,144.9736839,UP
+MEL-0811,"164 Bourke St, Melbourne Vic 3000",-37.8124967,144.968397,UP
+MEL-0815,"99 Spring St, Melbourne",-37.812528,144.973335,UP
+MEL-0823,"360 Little Bourke St, Melbourne",-37.81337,144.961967,UP
+MEL-0826,"222 Bourke St,Melbourne",-37.81306,144.96655,UP
+MEL-0830,"196 Lt Collins St, Melbourne (Ch1)",-37.8140587,144.9674619,UP
+MEL-0842,"28-32 Southgate Ave, Southbank",-37.820801,144.96761,UP
+MEL-0860,Queen Victoria Market-Queen St,-37.806358,144.958387,UP
+MEL-0861,Queen Victoria Market-Queen St,-37.806949,144.958277,UP
+MEL-0863,"196 Lt Collins St, Melbourne (Ch1)",-37.8141477,144.9671789,UP
+MEL-0900,Melbourne Museum Plaza- Front Pole,-37.80364,144.970148,UP
+MEL-0901,Melbourne Museum Plaza- Front Pole,-37.803741,144.970132,UP
+MEL-0902,Melbourne Museum Plaza- Front Pole,-37.80379,144.970561,UP
+MEL-0903,Melbourne Museum Plaza- Front Pole,-37.803843,144.97099,UP
+MEL-0904,Melbourne Museum Plaza- Front Pole,-37.803887,144.971511,UP
+MEL-0905,Melbourne Museum Plaza- Front Pole,-37.803919,144.971766,UP
+MEL-0906,Melbourne Museum Plaza- Front Pole,-37.803962,144.972181,UP
+MEL-0907,Melbourne Museum Plaza- Front Pole,-37.804008,144.972613,UP
+MEL-0908,Melbourne Museum Plaza- Front Pole,-37.804068,144.973203,UP
+MEL-0909,Melbourne Museum Plaza- Front Pole,-37.803968,144.973233,UP
+MEL-1000,99  William St,-37.8169995,144.958664,UP
+MEL-1001,525 Flinders St,-37.8205802,144.957177,UP
+MEL-1003,Outside 376 Flinders Street,-37.8190615,144.961594,UP
+MEL-1005,Se Corner Latrobe And Queens Streets,-37.811153,144.959103,UP
+MEL-1006,Outside 399 Elizabeth Street ,-37.8095134,144.960851,UP
+MEL-1007,27-37 Russell St,-37.8159811,144.969398,UP
+MEL-1008,115 Russell Street,-37.8136919,144.968349,UP
+MEL-1010,200 La Trobe St,-37.8096563,144.963221,UP
+MEL-1011,Outside 51 Spring Street,-37.8137547,144.97402,UP
+MEL-1014,50 Bourke St,-37.811675,144.971668,UP
+MEL-1015,"8 Nicholson St,Melbourne",-37.8085912,144.973215,UP
+MEL-1016,Outside 489 Albert Street,-37.8092406,144.973568,UP
+MEL-1017,Carlton Gardens - Ne Corner Of La Trobe And Victoria St,-37.8073609,144.970607,UP
+MEL-1018,Corner Powlett Street & Wellington Parade,-37.8162778,144.984938,UP
+MEL-1019,176 Wellington Parade Melbourne,-37.8161473,144.983932,UP
+MEL-1020,Corner Elizabeth And Therry Streets,-37.8069552,144.959954,UP
+MEL-1021,Ne Corner Flinders And Spencer Streets ,-37.8208833,144.955351,UP
+MEL-1022,300 Lonsdale Street ,-37.8118711,144.963309,UP
+MEL-1024,Outside 288 Queen Street ,-37.8118134,144.959404,UP
+MEL-1025,Ne Corner Lonsdale And Russell Streets,-37.8106571,144.967319,UP
