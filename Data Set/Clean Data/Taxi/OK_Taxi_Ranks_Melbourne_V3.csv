@@ -1,0 +1,78 @@
+id,address,reference,safeCity,numSpaces,nightOnly,latitude,longitude
+61,Roden Street,Adderley Street and Spencer Street,No,5,No,-37.808019550582,144.947483718061
+8,Lonsdale Street,Queen Street and William Street,No,1,No,-37.813699729532,144.957724746365
+48,Little Collins Street,Russell Street and Swanston Street,No,2,No,-37.814216559397,144.967145459973
+12,Collins Street,Spencer Street and Batmans Hill Drive,No,5,No,-37.819407421255,144.953274232669
+13,Docklands Drive,Waterfront Way and Pearl River Road,No,11,No,-37.814167083012,144.93906339248
+38,Exhibition Street,Bourke Street and Little Bourke Street,No,5,No,-37.811352496759,144.970230826446
+58,Commercial Road,St Kilda Road and Punt Road,No,10,No,-37.845620660866,144.983855969458
+46,Collins Street,Spring Street and Exhibition Street,No,7,No,-37.813803234929,144.97256799878
+51,Franklin Street,Swanston Street and Elizabeth Street,No,6,No,-37.807629761424,144.962259426442
+52,St Kilda Road,Yarra River and Southbank Boulevard,No,6,No,-37.822641571312,144.969534305783
+65,Birdwood Avenue,Dallas Brooks Drive and Domain Road,No,6,No,-37.833879766975,144.982581901032
+62,Grattan Street,Cardigan Street and Swanston Street,No,3,No,-37.800409226228,144.964731537269
+47,Swanston Street,Little Collins Street and Bourke Street,No,4,No,-37.81371230593,144.965834745769
+49,Queen Street,Collins Street and Little Collins Street,No,2,No,-37.816605935139,144.961559876773
+77,King Street,Flinders Street and Flinders Lane,Yes,9,Yes,-37.819971637557,144.95750844862
+16,King Street,Flinders Lane and Collins Street,Yes,7,Yes,-37.819054517276,144.956823990827
+40,Little Collins Street,Exhibition Street and Russell Street,No,6,No,-37.813310962011,144.970239202572
+54,Clarendon Street,Wellington Parade and George Street,No,6,No,-37.815800816842,144.982752695581
+27,Collins Street,Swanston Street and Elizabeth Street,No,3,No,-37.815877104905,144.964926355964
+31,Elizabeth Street,Little Lonsdale Street and La Trobe Street,No,4,No,-37.810983324176,144.961766589692
+34,Exhibition Street,La Trobe Street and Victoria Street,No,2,No,-37.807765462287,144.968441130705
+35,Exhibition Street,Lonsdale Street and Little Lonsdale Street,No,7,No,-37.809750629726,144.969622952391
+21,Elizabeth Street,Collins Street and Little Collins Street,No,2,No,-37.815980174729,144.963854189827
+68,Riverside Quay,Cook Street and Southgate Avenue,No,8,No,-37.821258397135,144.964411571626
+71,Swanston Street,Collins Street and Little Collins Street,No,3,No,-37.814787756561,144.96609420339
+50,Franklin Street,Swanston Street and Elizabeth Street,No,5,No,-37.807949000136,144.961167089897
+55,Wellington Parade,Powlett Street and Clarendon Street,No,1,No,-37.816040041291,144.982967553651
+29,Elizabeth Street,Bourke Street and Little Bourke Street,No,3,No,-37.813913169396,144.962908854161
+66,Swanston Street,Little Lonsdale Street and La Trobe Street,No,6,No,-37.810148370021,144.963949536235
+76,Queen Street,Little Bourke Street and Lonsdale Street,Yes,11,Yes,-37.813586439004,144.96019551858
+59,Peel Street,Dudley Street and Victoria Street,No,5,No,-37.808054210289,144.955752211867
+72,Russell Street,Flinders Lane and Collins Street,No,3,No,-37.815002267138,144.969234562672
+7,St Kilda Road,Yarra River and Southbank Boulevard,No,3,No,-37.820512744001,144.9685541155
+15,Collins Street,King Street and Spencer Street,No,2,No,-37.818563846933,144.956254692409
+75,Collins Street,Spencer Street and Batmans Hill Drive,No,4,No,-37.819141148696,144.953575920849
+25,Swanston Street,Princes Bridge and Flinders Street,Yes,6,No,-37.818076013818,144.967531439485
+36,Lonsdale Street,Exhibition Street and Russell Street,No,2,No,-37.810513654662,144.968615289016
+43,Bourke Street,Spring Street and Exhibition Street,Yes,3,No,-37.811622431711,144.971817800282
+64,St Kilda Road,Commercial Road and Moubray Street,No,10,No,-37.845490589546,144.979198541145
+74,Bourke Street,King Street and Spencer Street,No,3,No,-37.816714445959,144.954206016717
+9,William Street,Little Collins Street and Bourke Street,No,1,No,-37.816442145446,144.958417957796
+37,Albert Street,Spring Street and Nicholson Street,No,1,No,-37.809395658678,144.972471065591
+44,Spring Street,Little Collins Street and Bourke Street,No,2,No,-37.812116473101,144.973270703733
+4,Bourke Street,Russell Street and Swanston Street,No,11,Yes,-37.81301197586,144.967106057496
+53,Olympic Boulevard,Punt Road and Batman Avenue,No,12,No,-37.823478512532,144.98046718977
+23,King Street,Little Bourke Street and Lonsdale Street,No,3,Yes,-37.815126777236,144.95528112114
+63,Intersection of Lygon Street and Palmerston Street,Intersection of Lygon Street and Palmerston Street,No,4,No,-37.795976841954,144.967873947464
+73,Flinders Lane,Russell Street and Swanston Street,No,2,No,-37.816165346752,144.96815014519
+60,Peel Street,Dudley Street and Victoria Street,No,4,No,-37.80803193165,144.955445459469
+20,Collins Street,Elizabeth Street and Queen Street,No,4,No,-37.816710786254,144.962629155314
+22,Bourke Street,William Street and King Street,No,4,No,-37.816063032295,144.956588111225
+5,Bourke Street,Russell Street and Swanston Street,No,11,Yes,-37.813138356776,144.967172710631
+39,Russell Street,Bourke Street and Little Bourke Street,No,1,No,-37.812440458076,144.967797296914
+10,Collins Street,Elizabeth Street and Queen Street,No,1,No,-37.816646162288,144.962247915862
+2,Spencer Street,Bourke Street and Little Bourke Street,No,3,No,-37.816651294572,144.952874990473
+30,Swanston Street,Little Bourke Street and Lonsdale Street,No,6,No,-37.812251944281,144.964915329338
+69,Royal Children's Hospital,Royal Children's Hospital,No,9,No,-37.794157205107,144.948928782083
+11,Queen Street,Little Collins Street and Bourke Street,Yes,12,Yes,-37.815580334736,144.960841715904
+32,Lonsdale Street,Swanston Street and Elizabeth Street,No,2,No,-37.811942007108,144.963095593112
+42,Collins Street,Exhibition Street and Russell Street,No,4,No,-37.814517780445,144.970145954136
+33,Bourke Street,Elizabeth Street and Queen Street,No,8,No,-37.814529682801,144.962505987872
+28,Elizabeth Street,Little Collins Street and Bourke Street,No,2,No,-37.814563551834,144.963408261204
+1,Spencer Street,Little Collins Street and Bourke Street,No,5,No,-37.817482721671,144.953256067776
+17,Collins Street,William Street and King Street,No,6,No,-37.818033802568,144.958043343215
+41,Russell Street,Flinders Lane and Collins Street,No,1,No,-37.815090125208,144.969020896889
+24,Lonsdale Street,William Street and King Street,No,6,No,-37.81407411307,144.956073650638
+70,Grattan Street,Flemington Road and Elizabeth Street,No,6,No,-37.799458157772,144.956007723164
+14,Bourke Street,Harbour Esplanade and Enterprize Way,No,10,No,-37.819207191027,144.945660532885
+3,Flinders Street,Swanston Street and Elizabeth Street,No,8,Yes,-37.817920052074,144.9654329988
+6,Exhibition Street,Flinders Street and Flinders Lane,No,2,No,-37.815240851979,144.971911101554
+19,Market Street,Flinders Lane and Collins Street,No,4,No,-37.817846448983,144.960293300296
+56,Gisborne Street,Albert Street and Victoria Parade,No,6,No,-37.809151764453,144.975898423988
+18,William Street,Little Collins Street and Bourke Street,No,7,No,-37.816394707979,144.958652759646
+45,Parliament House,Parliament House,No,4,No,-37.811277451142,144.973304242296
+26,Swanston Street,Flinders Street and Flinders Lane,No,5,No,-37.816888213869,144.967239025049
+57,St Andrews Place,Lansdowne Street and MacArthur Street,No,3,No,-37.811898366701,144.975326526788
+67,Crown Entertainment Complex,Crown Entertainment Complex,No,3,No,-37.822788619856,144.960380145991
