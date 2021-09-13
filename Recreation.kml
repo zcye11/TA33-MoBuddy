@@ -443,7 +443,7 @@
         <Data name="Region">
           <value>North and West Metropolitan Region</value>
         </Data>
-
+      </ExtendedData>
       <Point>
         <coordinates>
           144.96469,-37.8158,0
