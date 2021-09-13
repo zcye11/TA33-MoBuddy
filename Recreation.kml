@@ -416,7 +416,7 @@
     </Placemark>
     <Placemark>
       <name>Council on the Ageing</name>
-      <description><![CDATA[ID: RECRE-10<br>Address: 4th Floor, Block Arcade<br>Street level: Block Arcade<br>Suburb: Melbourne<br>Postcode: 3000<br>Business Category: Recreation Group,State body,Strength Training<br>Local Government Area: Melbourne<br>Region: North and West Metropolitan Region<br>]]></description>
+      <description><![CDATA[ID: RECRE-10<br>Address: 4th Floor, Block Arcade<br>]]></description>
       <styleUrl>#icon-1589-A52714</styleUrl>
       <ExtendedData>
         <Data name="ID">
@@ -424,24 +424,6 @@
         </Data>
         <Data name="Address">
           <value>4th Floor, Block Arcade</value>
-        </Data>
-        <Data name="Street level">
-          <value>Block Arcade</value>
-        </Data>
-        <Data name="Suburb">
-          <value>Melbourne</value>
-        </Data>
-        <Data name="Postcode">
-          <value>3000.0</value>
-        </Data>
-        <Data name="Business Category">
-          <value>Recreation Group,State body,Strength Training</value>
-        </Data>
-        <Data name="Local Government Area">
-          <value>Melbourne</value>
-        </Data>
-        <Data name="Region">
-          <value>North and West Metropolitan Region</value>
         </Data>
       </ExtendedData>
       <Point>
