@@ -1,0 +1,4602 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Memorials</name>
+    <Style id="icon-1598-097138-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/memorial.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1598-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/memorial.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1598-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1598-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1598-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Coles Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-1</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8097706399894</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973483970263</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973483970263,-37.8097706399894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South African War Memorial (Memorial to Fallen Soldiers)</name>
+      <description>class: Art and Heritage
+kind: Memorial Sculpture, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-2</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial Sculpture, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8259414540802</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97185679034</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97185679034,-37.8259414540802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>World War 1 Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorials, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-3</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorials, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7915502247943</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.958086476511</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958086476511,-37.7915502247943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Sir Edward "Weary" Dunlop]]></name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-4</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8253098033481</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971594258329</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971594258329,-37.8253098033481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoo Paving</name>
+      <description>class: Art and Heritage
+kind: Paving, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-5</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Paving, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.782561322013</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.953293930765</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.953293930765,-37.782561322013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Swan Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Memorial Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-6</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8195705744424</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971824436445</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971824436445,-37.8195705744424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Burke & Wills Cairn]]></name>
+      <description>class: Art and Heritage
+kind: Cairn, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-7</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Cairn, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7889281178088</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.956058106876</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.956058106876,-37.7889281178088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>William Ievers (Jnr) Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-8</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7982578256186</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97056462845</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97056462845,-37.7982578256186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macpherson-Robertson Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-9</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8323774586129</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972934260924</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972934260924,-37.8323774586129,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Councillor William Cook Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-10</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7852874728369</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966190018508</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966190018508,-37.7852874728369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Travellers</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-11</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8200793788538</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.962960549385</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.962960549385,-37.8200793788538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beyond the Ocean of Existence</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-12</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8164236255068</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.967061521425</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.967061521425,-37.8164236255068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Pioneer Women's Memorial]]></name>
+      <description>class: Art and Heritage
+kind: Garden/Sculpture, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-13</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Garden/Sculpture, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.825114779701</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.976076236026</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.976076236026,-37.825114779701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sir Samuel Gillott</name>
+      <description>class: Art and Heritage
+kind: Bust, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-14</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Bust, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8137257364725</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972615422561</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972615422561,-37.8137257364725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ceremony and Vehicle for Conveying Spirit</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-15</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8136957631715</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.968512999898</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.968512999898,-37.8136957631715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Temple of the Winds</name>
+      <description>class: Art and Heritage
+kind: Rotunda, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-16</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Rotunda, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8128096545722</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.981735855762</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.981735855762,-37.8128096545722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sir Thomas Blamey Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-17</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8263011012613</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972818905824</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972818905824,-37.8263011012613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boy on a Turtle</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Statue</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-18</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Statue</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8143892942827</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.979910185425</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.979910185425,-37.8143892942827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Personal Islands</name>
+      <description>class: Art and Heritage
+kind: Pavement inlay, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-19</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Pavement inlay, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8129540652895</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96526492562</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96526492562,-37.8129540652895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sir William John Clarke</name>
+      <description>class: Art and Heritage
+kind: Monument, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-20</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Monument, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8136729531192</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974344858809</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974344858809,-37.8136729531192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[A History Apparatus - Vessel Craft & Beacon]]></name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-21</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8130493644912</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.968210954796</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.968210954796,-37.8130493644912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stanford Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-22</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8124342540301</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973955471734</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973955471734,-37.8124342540301,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Children's Lake Waterfall]]></name>
+      <description>class: Art and Heritage
+kind: Memorials, Waterfall</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-23</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorials, Waterfall</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8224051515098</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970643483514</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970643483514,-37.8224051515098,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diana and the Hounds</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-24</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8143067766605</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978499425414</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978499425414,-37.8143067766605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victorian Rowing Association World War 1 Memorial</name>
+      <description>class: Art and Heritage
+kind: Cenotaph, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-25</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Cenotaph, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8217592722394</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974772591697</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974772591697,-37.8217592722394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wind Contrivance</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-26</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8072518916019</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.959230565812</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959230565812,-37.8072518916019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Widow and Children</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Statue</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-27</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Statue</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8302819071543</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974339825095</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974339825095,-37.8302819071543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Henderson Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-28</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8033418230886</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.949739174347</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.949739174347,-37.8033418230886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Grant's Fountain]]></name>
+      <description>class: Art and Heritage
+kind: Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-29</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8074703758618</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.968593327348</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.968593327348,-37.8074703758618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairies Tree</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-30</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8134099717816</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.981102238575</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.981102238575,-37.8134099717816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Painted Poles</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-31</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8157562938546</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966810376908</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966810376908,-37.8157562938546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>River God Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-32</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8104167228785</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.980882423169</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.980882423169,-37.8104167228785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Philip Monument</name>
+      <description>class: Art and Heritage
+kind: Monument, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-33</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Monument, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8056957677722</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.907290986476</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.907290986476,-37.8056957677722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Pascoe Fawkner Memorial</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-34</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8176770551424</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.959995293311</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959995293311,-37.8176770551424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mermaid and Fish</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-35</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8138419994948</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98275871684</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98275871684,-37.8138419994948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cow Up A Tree</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-36</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8171223481362</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.945279735113</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.945279735113,-37.8171223481362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr Louis Smith</name>
+      <description>class: Art and Heritage
+kind: Bust, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-37</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Bust, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8047443091441</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972452071138</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972452071138,-37.8047443091441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spray Lake</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-38</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8058096513433</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972528791144</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972528791144,-37.8058096513433,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grey Street Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-39</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8115435006444</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.982950886232</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.982950886232,-37.8115435006444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sir John Monash</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-40</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8267733389745</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972752128938</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972752128938,-37.8267733389745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bird Panels</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-41</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7953526683028</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.940687345967</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.940687345967,-37.7953526683028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tianjin Garden Chinese Lion Guardians</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-42</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8112537328974</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.969347694358</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.969347694358,-37.8112537328974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Time and Tide</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-43</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8143983824308</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966250918798</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966250918798,-37.8143983824308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Passage</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-44</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8074524296746</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.958306716284</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958306716284,-37.8074524296746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elliot Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-45</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7820500448944</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.956966688817</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.956966688817,-37.7820500448944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farnex Hercules</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-46</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8211092934829</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.969673116962</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.969673116962,-37.8211092934829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Dolphin Fountain</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-47</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8118884444692</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.980015837679</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.980015837679,-37.8118884444692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[R.J. & F.G.J. Hardy Memorial Drinking Fountain|Also Know as Hardy Drinking Fountain]]></name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-48</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7855912778371</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.969314216893</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.969314216893,-37.7855912778371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Court Favourite</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-49</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8102639884104</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.955039022542</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.955039022542,-37.8102639884104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grollo Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-50</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8031427528281</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.969874382893</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.969874382893,-37.8031427528281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pioneer Monument</name>
+      <description>class: Art and Heritage
+kind: Monument, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-51</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Monument, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8108013544726</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.953954525604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.953954525604,-37.8108013544726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Pathfinder</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-52</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8220280877634</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970355253427</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970355253427,-37.8220280877634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Argyle Square Piazza</name>
+      <description>class: Art and Heritage
+kind: Unknown</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-53</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Unknown</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8024440893138</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965875284609</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965875284609,-37.8024440893138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pastor Sir Doug Nicholls and Lady Gladys Nicholls</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-54</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.810023077877</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973642112169</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973642112169,-37.810023077877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Dinny O'Hern Fountain]]></name>
+      <description>class: Art and Heritage
+kind: Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-55</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7975991057745</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.967306523849</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.967306523849,-37.7975991057745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silence</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-56</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8151070942136</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.94154651686</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.94154651686,-37.8151070942136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miraggio [also known as Seated Figure]</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-57</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82401351439</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974151551243</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974151551243,-37.82401351439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Phoenix</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-58</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8221532497782</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970950646927</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970950646927,-37.8221532497782,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Mockridge Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-59</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8155223709634</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966994346849</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966994346849,-37.8155223709634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Architectural Fragment</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-60</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8098275435281</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.964046088207</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.964046088207,-37.8098275435281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Captain Matthew Flinders Statue</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-61</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8169633057911</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.967487592771</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.967487592771,-37.8169633057911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grotto Waterfall</name>
+      <description>class: Art and Heritage
+kind: Memorials, Waterfall</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-62</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorials, Waterfall</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8256393194989</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97676107552</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97676107552,-37.8256393194989,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faultline</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-63</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8211525147875</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96423807327</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96423807327,-37.8211525147875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aurora</name>
+      <description>class: Art and Heritage
+kind: Aurora Sculpture, Sculpture in Docklands</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-64</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Aurora Sculpture, Sculpture in Docklands</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8186938302442</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.946856337589</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.946856337589,-37.8186938302442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>William Ievers (Snr) Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Memorial Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-65</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8028341907642</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966385560213</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966385560213,-37.8028341907642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adam Lindsay Gordon Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial Sculpture, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-66</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial Sculpture, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8123634964432</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973745102602</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973745102602,-37.8123634964432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Separation Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-67</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8106951235195</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.953685866683</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.953685866683,-37.8106951235195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boy and Pelican</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-68</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8137675152884</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.982771762965</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.982771762965,-37.8137675152884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bali Memorial</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-69</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8024841102707</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963242841603</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963242841603,-37.8024841102707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lie of the Land</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-70</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8037691686334</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972134256506</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972134256506,-37.8037691686334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King George V</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-71</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8242726781817</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973213427595</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973213427595,-37.8242726781817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Janet Lady Clarke Memorial Sculpture</name>
+      <description>class: Art and Heritage
+kind: Rotunda, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-72</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Rotunda, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8223354801052</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971835314604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971835314604,-37.8223354801052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King Edward VII Memorial</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-73</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8226718035411</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970988249771</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970988249771,-37.8226718035411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>General Charles Gordon Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-74</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8127260123213</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973942497587</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973942497587,-37.8127260123213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larry La Trobe</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-75</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8155485415339</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966892073339</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966892073339,-37.8155485415339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>George Hawkins Ievers Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-76</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7921729137983</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.958090228013</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958090228013,-37.7921729137983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Statue of Meditation</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-77</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8139538628485</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978577436109</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978577436109,-37.8139538628485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Raising the Rattler Pole</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-78</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8209006645416</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.954692755363</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.954692755363,-37.8209006645416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Motorcyclist Harold Parsons Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-79</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8170400833235</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98958111418</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98958111418,-37.8170400833235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunton Drinking Fountain East</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-80</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7893037541819</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972178908201</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972178908201,-37.7893037541819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial statue, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-81</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial statue, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8218411871775</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972479021742</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972479021742,-37.8218411871775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Waterfall</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Waterfall</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-82</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Waterfall</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8220860665895</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971811014259</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971811014259,-37.8220860665895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blowhole</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-83</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8218628591026</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.947009361906</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.947009361906,-37.8218628591026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edward George Honey Memorial</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-84</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8297554644672</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974419781225</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974419781225,-37.8297554644672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Water Nymph</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-85</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8222098042075</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971335362099</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971335362099,-37.8222098042075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peter Pan</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-86</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.784772976215</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.952364829892</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.952364829892,-37.784772976215,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Railway Viewing Platform</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-87</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8088169287784</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.943688301286</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.943688301286,-37.8088169287784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmund Fitzgibbon Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-88</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8236121838048</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97041853309</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97041853309,-37.8236121838048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dairy Hall Window</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Window</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-89</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Window</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8072067342084</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95927167699</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95927167699,-37.8072067342084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boy and Urn</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-90</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8121218036023</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.979703233987</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.979703233987,-37.8121218036023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Federation Bells</name>
+      <description>class: Art and Heritage
+kind: Arts Victoria, Federation Bells</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-91</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Arts Victoria, Federation Bells</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8186665820053</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974100198626</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974100198626,-37.8186665820053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birrarung Wilam [Common Ground]</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-92</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8185957247729</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971821698135</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971821698135,-37.8185957247729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Another View Site 1</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-93</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8112943375038</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973169010105</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973169010105,-37.8112943375038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weathervanes</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-94</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8135370446354</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965640931082</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965640931082,-37.8135370446354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Duke & Duchess of York Memorial [also known as Temperence]]]></name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-95</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8066292170365</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.959908875141</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959908875141,-37.8066292170365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reed Vessel</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-96</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8202323296824</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.946325095017</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.946325095017,-37.8202323296824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Exhibition Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-97</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8054567702426</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971368327059</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971368327059,-37.8054567702426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Man with the Donkey</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-98</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8294820320636</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973858485945</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973858485945,-37.8294820320636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Petition</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-99</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.811529640687</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.975170291578</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.975170291578,-37.811529640687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conservatory Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-100</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8138743287314</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978595508763</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978595508763,-37.8138743287314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Island Wave</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-101</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8093264245689</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.958057227641</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958057227641,-37.8093264245689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotham Hill Pavement Inlay</name>
+      <description>class: Art and Heritage
+kind: Pavement inlay, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-102</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Pavement inlay, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7949047877064</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.940383505871</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.940383505871,-37.7949047877064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>French Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-103</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8049009334589</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972849862515</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972849862515,-37.8049009334589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ecophene</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-104</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8198056338124</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963285369515</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963285369515,-37.8198056338124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Echo</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-105</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8127056758346</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965153949957</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965153949957,-37.8127056758346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Batman Memorial</name>
+      <description>class: Art and Heritage
+kind: Cairn, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-106</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Cairn, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8081355</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9576459</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9576459,-37.8081355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Three Businessmen Who Brought Their Own Lunch: Batman, Swanston & Hoddle]]></name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-107</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81368540194</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965574495439</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965574495439,-37.81368540194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Koorie Mural</name>
+      <description>class: Art and Heritage
+kind: Mural, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-108</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Mural, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8069939381431</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963053961495</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963053961495,-37.8069939381431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walker Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-109</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8235489421227</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970827554425</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970827554425,-37.8235489421227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mary Gilbert Memorial</name>
+      <description>class: Art and Heritage
+kind: Bust, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-110</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Bust, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8140756775122</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978560254824</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978560254824,-37.8140756775122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgarth Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-111</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8050912969792</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973417331594</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973417331594,-37.8050912969792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Australian Hellenic Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-112</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8272124256682</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972973931049</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972973931049,-37.8272124256682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Electric Supply Box D</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-113</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8135248905976</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965912867161</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965912867161,-37.8135248905976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apollo Belvedere</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-114</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8210593800945</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.969757416659</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.969757416659,-37.8210593800945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burke and Wills Monument</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-115</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8156336994425</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96670400597</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96670400597,-37.8156336994425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lynch's Bridge Mosaic Mural]]></name>
+      <description>class: Art and Heritage
+kind: Mural, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-116</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Mural, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7902053433568</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.923939187972</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.923939187972,-37.7902053433568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nurse Edith Cavell Memorial</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-117</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.827987844927</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973699167888</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973699167888,-37.827987844927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Reynold's Reserve Drinking Fountain]]></name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-118</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7836611910613</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960004006558</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960004006558,-37.7836611910613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Police Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-119</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8242417290806</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970982287968</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970982287968,-37.8242417290806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Genie</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-120</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8214877018124</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971194723297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971194723297,-37.8214877018124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boer War Monument</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-121</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8333920555902</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972246673222</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972246673222,-37.8333920555902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Resting Place</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Sculpture / Seat</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-122</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Sculpture / Seat</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8103721087661</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.964076451277</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.964076451277,-37.8103721087661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Georges Fountain</name>
+      <description>class: Art and Heritage
+kind: Fountain, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-123</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fountain, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8147653135597</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.968373946711</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.968373946711,-37.8147653135597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eight Hour Day Memorial</name>
+      <description>class: Art and Heritage
+kind: Monument, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-124</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Monument, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8071549943472</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965588362141</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965588362141,-37.8071549943472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eel Trap</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-125</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8191221578639</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974075813898</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974075813898,-37.8191221578639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John F. Kennedy Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-126</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8136597452278</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.976354471097</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.976354471097,-37.8136597452278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Living</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-127</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8114750568851</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.953165443927</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.953165443927,-37.8114750568851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bandstand</name>
+      <description>class: Art and Heritage
+kind: Bandstand, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-128</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Bandstand, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8118220680303</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98265705467</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98265705467,-37.8118220680303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Domed Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-129</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8212403900153</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970769453573</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970769453573,-37.8212403900153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fruition</name>
+      <description>class: Art and Heritage
+kind: Fruition, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-130</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Fruition, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7895848548551</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.943006771705</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.943006771705,-37.7895848548551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samuel Mauger Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-131</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8082489627974</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.975315343723</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.975315343723,-37.8082489627974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Painted Poles</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-132</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8100968903886</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.964165113326</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.964165113326,-37.8100968903886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sir William Brunton Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-133</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7893037541819</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972178908201</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972178908201,-37.7893037541819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterfall Fountain</name>
+      <description>class: Art and Heritage
+kind: Memorials, Waterfall</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-134</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorials, Waterfall</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.813717094785</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.980140702756</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.980140702756,-37.813717094785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Another View Site 8</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-135</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8194133574865</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960198663587</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960198663587,-37.8194133574865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coat of Arms</name>
+      <description>class: Art and Heritage
+kind: Pavement inlay, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-136</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Pavement inlay, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8151041704989</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96646930561</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96646930561,-37.8151041704989,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Public Purse</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Sculpture / Seat</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-137</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Sculpture / Seat</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8140976922587</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963400791877</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963400791877,-37.8140976922587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Constellation</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-138</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8202460577394</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960662531102</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960662531102,-37.8202460577394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clayton Reserve Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-139</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7956635547352</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.93893479621</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.93893479621,-37.7956635547352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horse Hitching Post</name>
+      <description>class: Art and Heritage
+kind: Hitching Post, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-140</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Hitching Post, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8150299439513</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974931522269</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974931522269,-37.8150299439513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Within Three Worlds</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-141</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7788682210743</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.961115185521</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.961115185521,-37.7788682210743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Robert Burns Memorial</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-142</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8143735830792</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974719996297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974719996297,-37.8143735830792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Speakers Corner</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Speakers Corner</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-143</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Speakers Corner</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8200825571427</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.975716690315</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.975716690315,-37.8200825571427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Water Children</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-144</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8221241231269</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.970661974148</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.970661974148,-37.8221241231269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maxims of Behaviour</name>
+      <description>class: Art and Heritage
+kind: Artwork</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-145</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Artwork</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8136024871974</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965808843709</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965808843709,-37.8136024871974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunton Drinking Fountain West</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-146</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8184091013264</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978855433923</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978855433923,-37.8184091013264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Another View Site 17</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-147</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8148050876298</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.968381035174</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.968381035174,-37.8148050876298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vault</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-148</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.826071391918</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.967732716827</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.967732716827,-37.826071391918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thomas Ferguson Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-149</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8015394788479</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960227248561</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960227248561,-37.8015394788479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scar: A Stolen Vision</name>
+      <description>class: Art and Heritage
+kind: Indigenous</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-150</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Indigenous</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8201016644485</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.959454354553</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959454354553,-37.8201016644485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Captain Cook</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-151</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.814579247299</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.979494359613</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.979494359613,-37.814579247299,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotham Hill Seat</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-152</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7949352206982</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.940340755268</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.940340755268,-37.7949352206982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sundial</name>
+      <description>class: Art and Heritage
+kind: Horology, Sundial</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-153</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Horology, Sundial</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.810316205825</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.954937510299</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.954937510299,-37.810316205825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Signature Work</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-154</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.819243144249</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.947246789008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.947246789008,-37.819243144249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[People's Path]]></name>
+      <description>class: Art and Heritage
+kind: Bricks / Tiles, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-155</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Bricks / Tiles, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8110235138977</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978389174842</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978389174842,-37.8110235138977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Batman Memorial [2]</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-156</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.817659776023</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.959772999626</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959772999626,-37.817659776023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>James C Roberts Memorial</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-157</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7891381551832</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.957053770245</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.957053770245,-37.7891381551832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marquis of Linlithgow</name>
+      <description>class: Art and Heritage
+kind: Sculpture, Statue</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-158</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture, Statue</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8266640563688</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.971916648894</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.971916648894,-37.8266640563688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Commonwealth Games Aquatic Sculptures - Eels</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-159</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7966290758514</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.924306747344</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.924306747344,-37.7966290758514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Australia Today and Tomorrow</name>
+      <description>class: Art and Heritage
+kind: Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-160</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8140548926813</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.967338697856</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.967338697856,-37.8140548926813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stapley Memorial Drinking Fountain</name>
+      <description>class: Art and Heritage
+kind: Drinking Fountain, Memorials</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-161</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Drinking Fountain, Memorials</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8189109755954</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.973021226526</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973021226526,-37.8189109755954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tilly Aston Bell</name>
+      <description>class: Art and Heritage
+kind: Memorial, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-162</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Memorial, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8253717421153</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.975900160659</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.975900160659,-37.8253717421153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Model Tudor Village</name>
+      <description>class: Art and Heritage
+kind: Model, Sculpture</description>
+      <styleUrl>#icon-1598-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>MON-163</value>
+        </Data>
+        <Data name="class">
+          <value>Art and Heritage</value>
+        </Data>
+        <Data name="kind">
+          <value>Model, Sculpture</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8132572127115</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.981012344621</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.981012344621,-37.8132572127115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
