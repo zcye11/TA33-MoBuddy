@@ -1,0 +1,714 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pedestrian Activity - Low</name>
+    <Style id="icon-1731-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1731-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1731-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1731-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1731-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Elizabeth St - La Trobe St (East)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.8098894</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.9613433</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9613433,-37.8098894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders La - Swanston St (West) Temporary</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81668188</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.9668954</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9668954,-37.81668188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Royal Pde - Grattan St</name>
+      <description>Pedestrian Activity: low
+Average Counting: 93</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.79949544</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95792282</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>93.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95792282,-37.79949544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred Place</name>
+      <description>Pedestrian Activity: low
+Average Counting: 62</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81379749</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96995745</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>62.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96995745,-37.81379749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>State Library</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81064378</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96447132</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96447132,-37.81064378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders Ln - Degraves St (Crossing)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 94</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81687225</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96559145</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>94.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96559145,-37.81687225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westwood Place</name>
+      <description>Pedestrian Activity: low
+Average Counting: 29</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81235775</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.97136962</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>29.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97136962,-37.81235775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders St - Spring St (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81483252</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.97454056</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97454056,-37.81483252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flagstaff Station</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81239679</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95652653</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95652653,-37.81239679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders St - Swanston St (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81723437</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96715033</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96715033,-37.81723437,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Square</name>
+      <description>Pedestrian Activity: low
+Average Counting: 0</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81573742</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96685718</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>0.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96685718,-37.81573742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pelham St (South)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 34</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.80240719</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96156731</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>34.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96156731,-37.80240719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grattan St - Swanston St (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 84</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.80008565</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96386412</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>84.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96386412,-37.80008565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders St - Spark La</name>
+      <description>Pedestrian Activity: low
+Average Counting: 50</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81537985</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.9741505</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>50.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9741505,-37.81537985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterfront City</name>
+      <description>Pedestrian Activity: low
+Average Counting: 42</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81564989</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.93970695</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>42.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.93970695,-37.81564989,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QVM - Therry St (South)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 93</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.80730067</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95956055</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>93.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95956055,-37.80730067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QV Market - Peel St</name>
+      <description>Pedestrian Activity: low
+Average Counting: 83</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.80606888</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95644693</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>83.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95644693,-37.80606888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tin Alley - Swanston St (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 37</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.79690473</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96440378</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>37.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96440378,-37.79690473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QVM - Franklin St (North)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 85</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.80841814</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95906317</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>85.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95906317,-37.80841814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Point</name>
+      <description>Pedestrian Activity: low
+Average Counting: 51</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81876473</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.94710545</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>51.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.94710545,-37.81876473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monash Rd - Swanston St (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 85</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.79844525</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.96411782</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>85.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96411782,-37.79844525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourke St - Spencer St (South)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 48</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81695684</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.95415373</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>48.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95415373,-37.81695684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spring St - Flinders st (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 36</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81515275</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.97467662</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>36.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97467662,-37.81515275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lincoln - Swanston (West)</name>
+      <description>Pedestrian Activity: low
+Average Counting: 49</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.804024</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.963084</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>49.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963084,-37.804024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macaulay Rd - Bellair St</name>
+      <description>Pedestrian Activity: low
+Average Counting: 44</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.79453802</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.93036194</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>44.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.93036194,-37.79453802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbour Esplanade (West) - Bike Path</name>
+      <description>Pedestrian Activity: low
+Average Counting: 19</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81471642</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.9446508</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>19.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9446508,-37.81471642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harbour Esplanade (West) - Pedestrian path</name>
+      <description>Pedestrian Activity: low
+Average Counting: 87</description>
+      <styleUrl>#icon-1731-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="sensor_latitude">
+          <value>-37.81441438</value>
+        </Data>
+        <Data name="sensor_longitude">
+          <value>144.94433026</value>
+        </Data>
+        <Data name="Average Counting">
+          <value>87.0</value>
+        </Data>
+        <Data name="Pedestrian Activity">
+          <value>low</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.94433026,-37.81441438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
