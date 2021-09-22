@@ -1,0 +1,1794 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Disability Services and Sports</name>
+    <Style id="icon-1604-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1604-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1604-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1604-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1604-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Action on Disability within Ethnic Communities</name>
+      <description><![CDATA[address: 13 Munro Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-1</value>
+        </Data>
+        <Data name="address">
+          <value>13 Munro Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Coburg</value>
+        </Data>
+        <Data name="postcode">
+          <value>3058.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Moreland</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.74502</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96486</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96486,-37.74502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arts Access</name>
+      <description><![CDATA[address: 24 Eastern Road<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-2</value>
+        </Data>
+        <Data name="address">
+          <value>24 Eastern Road</value>
+        </Data>
+        <Data name="suburb">
+          <value>South Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3205.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Port Phillip (C); Melbourne (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metropolitan Region; North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83208</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96477</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96477,-37.83208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ASPIRE</name>
+      <description><![CDATA[address: 505 Raglan Parade<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-3</value>
+        </Data>
+        <Data name="address">
+          <value>505 Raglan Parade</value>
+        </Data>
+        <Data name="suburb">
+          <value>Warrnambool</value>
+        </Data>
+        <Data name="postcode">
+          <value>3280.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Warrnambool</value>
+        </Data>
+        <Data name="region">
+          <value>Barwon S/W</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.38248</value>
+        </Data>
+        <Data name="longitude">
+          <value>142.48848</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          142.48848,-38.38248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Audiology Ultra Hearing Service - Altona</name>
+      <description><![CDATA[address: 10 Harrington Square<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-4</value>
+        </Data>
+        <Data name="address">
+          <value>10 Harrington Square</value>
+        </Data>
+        <Data name="suburb">
+          <value>Altona</value>
+        </Data>
+        <Data name="postcode">
+          <value>3018.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Hobsons Bay (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.865004</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.092005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.092005,-37.865004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Audiology Ultra Hearing Service - Ashburton</name>
+      <description><![CDATA[address: Suite 3, 330 High Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-5</value>
+        </Data>
+        <Data name="address">
+          <value>Suite 3, 330 High Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Ashburton</value>
+        </Data>
+        <Data name="postcode">
+          <value>3147.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Monash (C); Boroondara (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.865004</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.092005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.092005,-37.865004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AUSRAPID</name>
+      <description><![CDATA[address: 63 Carrier Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-6</value>
+        </Data>
+        <Data name="address">
+          <value>63 Carrier Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Benalla</value>
+        </Data>
+        <Data name="postcode">
+          <value>3672.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Mansfield (S); Benalla (RC)</value>
+        </Data>
+        <Data name="region">
+          <value>Hume Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.55064</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.9861</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.9861,-36.55064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Australian Transplant Sports Association</name>
+      <description><![CDATA[address: 18 Yallop Court<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-7</value>
+        </Data>
+        <Data name="address">
+          <value>18 Yallop Court</value>
+        </Data>
+        <Data name="suburb">
+          <value>Keilor East</value>
+        </Data>
+        <Data name="postcode">
+          <value>3033.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Moonee Valley</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.737542</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.849893</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.849893,-37.737542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autistic Residential and Resources Society</name>
+      <description><![CDATA[address: Alpha Terrace<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-8</value>
+        </Data>
+        <Data name="address">
+          <value>Alpha Terrace</value>
+        </Data>
+        <Data name="suburb">
+          <value>Albert Park</value>
+        </Data>
+        <Data name="postcode">
+          <value>3206.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Port Phillip</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.838828</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.965515</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.965515,-37.838828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bear In Mind</name>
+      <description><![CDATA[address: 2nd Floor, Ross House, 247 Flinders Lane<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-9</value>
+        </Data>
+        <Data name="address">
+          <value>2nd Floor, Ross House, 247 Flinders Lane</value>
+        </Data>
+        <Data name="suburb">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3000.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81656</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96611</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96611,-37.81656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centre for Developmental Disability Health Victoria</name>
+      <description><![CDATA[address: School of Primary Health Care<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-10</value>
+        </Data>
+        <Data name="address">
+          <value>School of Primary Health Care</value>
+        </Data>
+        <Data name="suburb">
+          <value>Notting Hill</value>
+        </Data>
+        <Data name="postcode">
+          <value>3168.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Monash (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.89765</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.14642</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.14642,-37.89765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disability Day Programs Kew Residential Services</name>
+      <description><![CDATA[address: PO Box Locked Bag 15<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-11</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box Locked Bag 15</value>
+        </Data>
+        <Data name="suburb">
+          <value>Kew</value>
+        </Data>
+        <Data name="postcode">
+          <value>3101.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Boroondara</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78837</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.03002,-37.78837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disability Education Program</name>
+      <description><![CDATA[address: 483 Buckley Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-12</value>
+        </Data>
+        <Data name="address">
+          <value>483 Buckley Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Essendon</value>
+        </Data>
+        <Data name="postcode">
+          <value>3040.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Moonee Valley</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.74862</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.885382</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.885382,-37.74862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disability Employment Action Centre</name>
+      <description><![CDATA[address: 8th Floor, 55 Swanston Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-13</value>
+        </Data>
+        <Data name="address">
+          <value>8th Floor, 55 Swanston Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3000.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81759</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96716</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96716,-37.81759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disability Information Victoria</name>
+      <description><![CDATA[address: PO Box 295<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-14</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 295</value>
+        </Data>
+        <Data name="suburb">
+          <value>Malvern</value>
+        </Data>
+        <Data name="postcode">
+          <value>3144.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Stonnington</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.851968</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.033424</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.033424,-37.851968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EASE - Arts Access</name>
+      <description><![CDATA[address: 24 Eastern Road<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-15</value>
+        </Data>
+        <Data name="address">
+          <value>24 Eastern Road</value>
+        </Data>
+        <Data name="suburb">
+          <value>South Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3205.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Port Phillip</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.829195</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960726</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960726,-37.829195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Interchange - Western Region </name>
+      <description><![CDATA[address: 75 Ashley Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-16</value>
+        </Data>
+        <Data name="address">
+          <value>75 Ashley Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Braybrook</value>
+        </Data>
+        <Data name="postcode">
+          <value>3019.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Maribyrnong</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.788933</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.863856</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.863856,-37.788933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Interchange (PINARC Support Services) - Central Highlands</name>
+      <description><![CDATA[address: 20 King Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-17</value>
+        </Data>
+        <Data name="address">
+          <value>20 King Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Ballarat</value>
+        </Data>
+        <Data name="postcode">
+          <value>3350.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Ballarat</value>
+        </Data>
+        <Data name="region">
+          <value>Grampians</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.563415</value>
+        </Data>
+        <Data name="longitude">
+          <value>143.856664</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          143.856664,-37.563415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalianna School</name>
+      <description><![CDATA[address: Nolan Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-18</value>
+        </Data>
+        <Data name="address">
+          <value>Nolan Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Bendigo</value>
+        </Data>
+        <Data name="postcode">
+          <value>3550.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Bendigo</value>
+        </Data>
+        <Data name="region">
+          <value>Loddon-Mallee</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.758856</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.280185</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.280185,-36.758856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Out Doors Inc.</name>
+      <description><![CDATA[address: 118 Napier Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-19</value>
+        </Data>
+        <Data name="address">
+          <value>118 Napier Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Fitzroy</value>
+        </Data>
+        <Data name="postcode">
+          <value>3065.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Yarra</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79801</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978619,-37.79801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peter Harcourt Centre</name>
+      <description><![CDATA[address: Harcourt Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-20</value>
+        </Data>
+        <Data name="address">
+          <value>Harcourt Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Bendigo</value>
+        </Data>
+        <Data name="postcode">
+          <value>3550.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Bendigo</value>
+        </Data>
+        <Data name="region">
+          <value>Loddon-Mallee</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.758856</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.280185</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.280185,-36.758856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quantum Support Services Inc</name>
+      <description><![CDATA[address: PO Box 222<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-21</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 222</value>
+        </Data>
+        <Data name="suburb">
+          <value>Morwell</value>
+        </Data>
+        <Data name="postcode">
+          <value>3840.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Latrobe (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Gippsland Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.233333</value>
+        </Data>
+        <Data name="longitude">
+          <value>146.4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          146.4,-38.233333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richmond Fellowship</name>
+      <description><![CDATA[address: 2 Wellington Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-22</value>
+        </Data>
+        <Data name="address">
+          <value>2 Wellington Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Collingwood</value>
+        </Data>
+        <Data name="postcode">
+          <value>3066.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Yarra</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.794894</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.988398</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.988398,-37.794894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Eastern Disability Services</name>
+      <description><![CDATA[address: Suite 3, 50 Thomas Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-23</value>
+        </Data>
+        <Data name="address">
+          <value>Suite 3, 50 Thomas Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Dandenong</value>
+        </Data>
+        <Data name="postcode">
+          <value>3175.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Dandenong</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.022902</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.212441</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.212441,-38.022902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Special Olympics Melbourne North Region</name>
+      <description><![CDATA[address: 539 Gilbert Road<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-24</value>
+        </Data>
+        <Data name="address">
+          <value>539 Gilbert Road</value>
+        </Data>
+        <Data name="suburb">
+          <value>Preston West</value>
+        </Data>
+        <Data name="postcode">
+          <value>3072.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Darebin (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.741366</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.989194</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.989194,-37.741366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sports Focus</name>
+      <description><![CDATA[address: 14 Nolan Street<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-25</value>
+        </Data>
+        <Data name="address">
+          <value>14 Nolan Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Bendigo</value>
+        </Data>
+        <Data name="postcode">
+          <value>3550.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Bendigo</value>
+        </Data>
+        <Data name="region">
+          <value>Loddon-Mallee</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.758856</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.280185</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.280185,-36.758856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TADVIC Co-operative</name>
+      <description><![CDATA[address: C/- Royal Talbot Rehabilitation Centre, Yarra Boulevard<br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-26</value>
+        </Data>
+        <Data name="address">
+          <value>C/- Royal Talbot Rehabilitation Centre, Yarra Boulevard</value>
+        </Data>
+        <Data name="suburb">
+          <value>Kew</value>
+        </Data>
+        <Data name="postcode">
+          <value>3101.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Boroondara</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78906</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.02299</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.02299,-37.78906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Travellers Aid Disability Access Service</name>
+      <description><![CDATA[address: 2nd Floor, 169 Swanston Street <br>businessCategory: Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-27</value>
+        </Data>
+        <Data name="address">
+          <value>2nd Floor, 169 Swanston Street </value>
+        </Data>
+        <Data name="suburb">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3000.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81759</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96716</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96716,-37.81759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Handcycling</name>
+      <description><![CDATA[address: 341 George Street<br>businessCategory: Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-28</value>
+        </Data>
+        <Data name="address">
+          <value>341 George Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Fitzroy</value>
+        </Data>
+        <Data name="postcode">
+          <value>3065.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Yarra (C); Yarra (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region; North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79801</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978619,-37.79801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIDDWAY Cobras Football Club</name>
+      <description><![CDATA[address: 18/36 Hennessy Way<br>businessCategory: Australian Rules Football Club,Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-29</value>
+        </Data>
+        <Data name="address">
+          <value>18/36 Hennessy Way</value>
+        </Data>
+        <Data name="suburb">
+          <value>Dandenong North</value>
+        </Data>
+        <Data name="postcode">
+          <value>3175.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Australian Rules Football Club,Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Dandenong</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.948333</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.201049</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.201049,-37.948333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Football Integration Development Association</name>
+      <description><![CDATA[address: PO Box 359<br>businessCategory: Australian Rules Football Club,Disability,Sports Club/Association]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-30</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 359</value>
+        </Data>
+        <Data name="suburb">
+          <value>Elsternwick</value>
+        </Data>
+        <Data name="postcode">
+          <value>3185.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Australian Rules Football Club,Disability,Sports Club/Association</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Port Phillip , Glen Eira , Bayside</value>
+        </Data>
+        <Data name="region">
+          <value>Southern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.885456</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.009289</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.009289,-37.885456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Special Olympics Outer Eastern Region</name>
+      <description><![CDATA[address: PO Box 9258<br>businessCategory: Basketball Club,Disability,Gymnastics,Tennis club,Tenpin Bowling]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-31</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 9258</value>
+        </Data>
+        <Data name="suburb">
+          <value>Scoresby</value>
+        </Data>
+        <Data name="postcode">
+          <value>3179.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Gymnastics,Tennis club,Tenpin Bowling</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Knox (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.889169</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.226818</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.226818,-37.889169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Special Olympics Echuca Campaspe Region</name>
+      <description><![CDATA[address: P.O. Box 567<br>businessCategory: Basketball Club,Disability,Gymnastics,Tenpin Bowling]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-32</value>
+        </Data>
+        <Data name="address">
+          <value>P.O. Box 567</value>
+        </Data>
+        <Data name="suburb">
+          <value>Echuca</value>
+        </Data>
+        <Data name="postcode">
+          <value>3564.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Gymnastics,Tenpin Bowling</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Campaspe (S)</value>
+        </Data>
+        <Data name="region">
+          <value>Loddon-Mallee Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.06251</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.72021</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.72021,-36.06251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Special Olympics Ballarat Grampian Region</name>
+      <description><![CDATA[address: PO Box 163N<br>businessCategory: Basketball Club,Disability,Tenpin Bowling]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-33</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 163N</value>
+        </Data>
+        <Data name="suburb">
+          <value>Ballarat North</value>
+        </Data>
+        <Data name="postcode">
+          <value>3350.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Tenpin Bowling</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Ballarat (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Grampians Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.563415</value>
+        </Data>
+        <Data name="longitude">
+          <value>143.856664</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          143.856664,-37.563415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball</name>
+      <description><![CDATA[address: Wheelchair Sports Victoria<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-34</value>
+        </Data>
+        <Data name="address">
+          <value>Wheelchair Sports Victoria</value>
+        </Data>
+        <Data name="suburb">
+          <value>Fitzroy</value>
+        </Data>
+        <Data name="postcode">
+          <value>3065.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Yarra (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79801</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978619,-37.79801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball - Development Coaching Program, Albury/Wodonga</name>
+      <description><![CDATA[address: Albury Sports Stadium<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-35</value>
+        </Data>
+        <Data name="address">
+          <value>Albury Sports Stadium</value>
+        </Data>
+        <Data name="suburb">
+          <value>Albury</value>
+        </Data>
+        <Data name="postcode">
+          <value>2640.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Information not available</value>
+        </Data>
+        <Data name="region">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.080779</value>
+        </Data>
+        <Data name="longitude">
+          <value>146.916469</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          146.916469,-36.080779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball - Development Coaching Program, Bendigo</name>
+      <description><![CDATA[address: Girton Secondary College<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-36</value>
+        </Data>
+        <Data name="address">
+          <value>Girton Secondary College</value>
+        </Data>
+        <Data name="suburb">
+          <value>Bendigo</value>
+        </Data>
+        <Data name="postcode">
+          <value>3550.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Bendigo (C); Greater Bendigo (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Loddon-Mallee Region; Loddon-Mallee Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.765594</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.282955</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.282955,-36.765594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball - Development Coaching Program, Melbourne</name>
+      <description><![CDATA[address: Melbourne Sports and Aquatic Centre<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-37</value>
+        </Data>
+        <Data name="address">
+          <value>Melbourne Sports and Aquatic Centre</value>
+        </Data>
+        <Data name="suburb">
+          <value>Melbourne</value>
+        </Data>
+        <Data name="postcode">
+          <value>3205.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Melbourne (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.84287</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96197</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96197,-37.84287,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball - Development Coaching Program, Shepparton</name>
+      <description><![CDATA[address: Shepparton Sports College<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-38</value>
+        </Data>
+        <Data name="address">
+          <value>Shepparton Sports College</value>
+        </Data>
+        <Data name="suburb">
+          <value>Shepparton</value>
+        </Data>
+        <Data name="postcode">
+          <value>3630.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Shepparton (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Hume Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-36.347528</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.367604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.367604,-36.347528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Basketball - Knox Basketball Competition</name>
+      <description><![CDATA[address: Knox Basketball Stadium<br>businessCategory: Basketball Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-39</value>
+        </Data>
+        <Data name="address">
+          <value>Knox Basketball Stadium</value>
+        </Data>
+        <Data name="suburb">
+          <value>Boronia</value>
+        </Data>
+        <Data name="postcode">
+          <value>3155.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Basketball Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Maroondah (C); Knox (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86073</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.285985</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.285985,-37.86073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wheelchair Sports Victoria Lawn Bowls</name>
+      <description><![CDATA[address: 341 George Street<br>businessCategory: Bowling Club,Disability,Wheelchair Sports]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-40</value>
+        </Data>
+        <Data name="address">
+          <value>341 George Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Fitzroy</value>
+        </Data>
+        <Data name="postcode">
+          <value>3065.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Bowling Club,Disability,Wheelchair Sports</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Yarra (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79801</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.978619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.978619,-37.79801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Croydon Ranges Cricket Club</name>
+      <description><![CDATA[address: Silcock Reserve<br>businessCategory: Cricket Club,Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-41</value>
+        </Data>
+        <Data name="address">
+          <value>Silcock Reserve</value>
+        </Data>
+        <Data name="suburb">
+          <value>Croydon</value>
+        </Data>
+        <Data name="postcode">
+          <value>3136.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Cricket Club,Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Maroondah</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metro</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.788196</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.288433</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.288433,-37.788196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balwyn Leisure Centre</name>
+      <description><![CDATA[address: 230 Balwyn Road<br>businessCategory: Dance Class/Club,Disability,Fitness centre,Gymnastics,Martial Arts,Netball Club,Strength Training,Yoga]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-42</value>
+        </Data>
+        <Data name="address">
+          <value>230 Balwyn Road</value>
+        </Data>
+        <Data name="suburb">
+          <value>Balwyn North</value>
+        </Data>
+        <Data name="postcode">
+          <value>3104.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Dance Class/Club,Disability,Fitness centre,Gymnastics,Martial Arts,Netball Club,Strength Training,Yoga</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Boroondara (C)</value>
+        </Data>
+        <Data name="region">
+          <value>Eastern Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.801443</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.086447</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.086447,-37.801443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Outlets Co-operative Neighbourhood House Ltd</name>
+      <description><![CDATA[address: 43 Mason Street<br>businessCategory: Dance Class/Club,Disability,Neighbourhood house,Walking Club/Group,Yoga]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-43</value>
+        </Data>
+        <Data name="address">
+          <value>43 Mason Street</value>
+        </Data>
+        <Data name="suburb">
+          <value>Newport</value>
+        </Data>
+        <Data name="postcode">
+          <value>3015.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Dance Class/Club,Disability,Neighbourhood house,Walking Club/Group,Yoga</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Maribyrnong (C); Hobsons Bay (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.842518</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.880829</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.880829,-37.842518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Club Wild</name>
+      <description><![CDATA[address: PO Box 102<br>businessCategory: Dance Class/Club,Disability,Recreation Group]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-44</value>
+        </Data>
+        <Data name="address">
+          <value>PO Box 102</value>
+        </Data>
+        <Data name="suburb">
+          <value>Geelong</value>
+        </Data>
+        <Data name="postcode">
+          <value>3220.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Dance Class/Club,Disability,Recreation Group</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Greater Geelong</value>
+        </Data>
+        <Data name="region">
+          <value>Barwon S/W</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.148162</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.356317</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.356317,-38.148162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hume City Council</name>
+      <description><![CDATA[address: 1079 Pascoe Vale Road<br>businessCategory: Local Government,Disability]]></description>
+      <styleUrl>#icon-1604-097138</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>SUPP-45</value>
+        </Data>
+        <Data name="address">
+          <value>1079 Pascoe Vale Road</value>
+        </Data>
+        <Data name="suburb">
+          <value>Broadmeadows</value>
+        </Data>
+        <Data name="postcode">
+          <value>3047.0</value>
+        </Data>
+        <Data name="businessCategory">
+          <value>Local Government,Disability</value>
+        </Data>
+        <Data name="localGoverArea">
+          <value>Hume (C)</value>
+        </Data>
+        <Data name="region">
+          <value>North and West Metropolitan Region</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.68019</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.919505</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.919505,-37.68019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

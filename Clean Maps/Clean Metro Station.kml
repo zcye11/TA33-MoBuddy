@@ -1,0 +1,6609 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Metro Station</name>
+    <Style id="icon-1716-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/train.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1716-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/train.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1716-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1716-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1716-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Alamein</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-1</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86884299999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.07955800000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.079558,-37.868843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albion</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-2</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77765599999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.82470999999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.82471,-37.777656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alphington</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-3</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77839599999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.031251</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.031251,-37.778396,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Altona</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-4</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86724899999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.830604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.830604,-37.867249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anstey</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-5</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.761897999999974</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96056099999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960561,-37.761898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armadale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-6</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.856434999999976</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.01937400000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.019374,-37.856435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ascot Vale</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-7</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.775420999999994</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92188399999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.921884,-37.775421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashburton</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-8</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.861767999999984</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.081416</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.081416,-37.861768,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aspendale</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-9</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.02704499999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.10200700000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.102007,-38.027045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auburn</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-10</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82241099999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.045617</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.045617,-37.822411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balaclava</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-11</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86974699999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.993516</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.993516,-37.869747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batman</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-12</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.73345899999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96274700000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.962747,-37.733459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baxter</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-13</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.194222999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.160487</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.160487,-38.194223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayswater</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-14</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.84186299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.26826700000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.268267,-37.841863,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaconsfield</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-15</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.050928</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.36604499999999</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.366045,-38.050928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belgrave</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-16</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.90909899999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.35529100000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.355291,-37.909099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bell</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-17</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.74556799999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.000181</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.000181,-37.745568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bentleigh</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-18</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.91779299999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03689400000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.036894,-37.917793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berwick</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-19</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.03968099999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.34497299999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.344973,-38.039681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bittern</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-20</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.33774699999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.1777390000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.177739,-38.337747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackburn</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-21</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82015799999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.15019700000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.150197,-37.820158,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonbeach</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-22</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.062926000000004</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.11974500000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.119745,-38.062926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boronia</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-23</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.859830999999986</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.28429700000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.284297,-37.859831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Box Hill</name>
+      <description><![CDATA[infoDisplay: CRT<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-24</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>CRT</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81927399999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.1218</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.1218,-37.819274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brighton Beach</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-25</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.92625499999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.989193</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.989193,-37.926255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broadmeadows</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-26</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.683362999999986</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.91937000000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.91937,-37.683363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunswick</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-27</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.767944</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95955800000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.959558,-37.767944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burnley</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-28</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.827631</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.0076200000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.00762,-37.827631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burwood</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-29</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.851350999999966</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.08036800000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.080368,-37.851351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camberwell</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-30</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.826607999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.0586820000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.058682,-37.826608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canterbury</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-31</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.824703</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.08076900000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.080769,-37.824703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carnegie</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-32</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.886236999999994</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.05857600000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.058576,-37.886237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carrum</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-33</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.07593699999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.122653</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.122653,-38.075937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caulfield</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-34</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.87768299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.04274600000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.042746,-37.877683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chatham</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-35</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.824276</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.08892300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.088923,-37.824276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chelsea</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-36</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.05239499999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.11623100000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.116231,-38.052395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cheltenham</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-37</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.966943999999955</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.05477200000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.054772,-37.966944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clayton</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-38</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.92470199999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.12056700000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.120567,-37.924702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clifton Hill</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-39</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78822399999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.995495</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.995495,-37.788224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coburg</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-40</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.742411000000004</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963347</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963347,-37.742411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collingwood</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-41</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80454299999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.993743</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.993743,-37.804543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Craigieburn</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-42</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.602716999999984</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.94301200000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.943012,-37.602717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cranbourne</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-43</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.099177</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.28000700000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.280007,-38.099177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crib Point</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-44</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.36620499999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.20423600000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.204236,-38.366205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Croxton</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-45</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.76385399999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99709900000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.997099,-37.763854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Croydon</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-46</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79575399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.27988400000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.279884,-37.795754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dandenong</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-47</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.989934000000005</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.20963900000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.209639,-37.989934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Darebin</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-48</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77481599999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03862200000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.038622,-37.774816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Darling</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-49</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.868682999999976</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06267300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.062673,-37.868683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dennis</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-50</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77918299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00824</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.00824,-37.779183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diamond Creek</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-51</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.67332899999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.15873800000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.158738,-37.673329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diggers Rest</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-52</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.62774299999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.71997900000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.719979,-37.627743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eaglemont</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-53</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.76377099999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.05370300000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.053703,-37.763771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Camberwell</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-54</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.825759000000005</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06832400000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.068324,-37.825759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Malvern</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-55</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.877025</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06928500000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.069285,-37.877025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Richmond</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-56</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82646599999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.997254</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.997254,-37.826466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edithvale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-57</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.03813299999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.10852699999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.108527,-38.038133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elsternwick</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-58</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.88484799999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00097300000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.000973,-37.884848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eltham</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-59</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.713438</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.14772600000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.147726,-37.713438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Epping</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-60</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.65301699999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.02860700000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.028607,-37.653017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Essendon</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-61</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.75600799999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.916198</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.916198,-37.756008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairfield</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-62</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77918599999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.016801</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.016801,-37.779186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fawkner</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-63</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.71468199999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96055</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96055,-37.714682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferntree Gully</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-64</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.88159299999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.29517099999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.295171,-37.881593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flagstaff</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-65</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.811827</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.956447</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.956447,-37.811827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flemington Bridge</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-66</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78813699999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.93932200000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.939322,-37.7881369999999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders Street</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-67</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Plat 1 only</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81832099999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.966997</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.966997,-37.818321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Footscray</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-68</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.801694999999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.902378</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.902378,-37.801695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frankston</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-69</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.14326399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.12601000000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.12601,-38.143264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gardenvale</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-70</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.89614799999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00426900000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.004269,-37.896148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gardiner</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-71</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.853275999999994</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.05162400000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.051624,-37.853276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ginifer</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-72</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.75758099999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.80964300000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.809643,-37.757581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glen Iris</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-73</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.859307</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.058223</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.058223,-37.859307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glen Waverley</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-74</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.87978499999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.1630590000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.163059,-37.879785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glenbervie</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-75</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.747187</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.920932</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.920932,-37.747187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glenferrie</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-76</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82146599999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.0364380000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.036438,-37.821466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glenhuntly</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-77</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.88912799999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.04222000000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.04222,-37.889128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glenroy</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-78</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.704638999999986</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.91724599999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.917246,-37.704639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gowrie</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-79</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.700751999999966</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95887900000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958879,-37.700752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greensborough</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-80</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.703981999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.108164</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.108164,-37.703982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hallam</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-81</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.01774399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.269773</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.269773,-38.017744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hampton</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-82</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.93787599999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.001216</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.001216,-37.937876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hartwell</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-83</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.843763999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.07541700000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.075417,-37.843764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hastings</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-84</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.305454</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.18598400000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.185984,-38.305454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawksburn</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-85</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.844667999999956</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00209500000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.002095,-37.844668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawthorn</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-86</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.821838999999954</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.02308800000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.023088,-37.821839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heatherdale</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-87</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.818922999999984</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.21189500000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.211895,-37.818923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heathmont</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-88</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.827849999999955</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.24430600000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.244306,-37.82785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heidelberg</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-89</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.75714899999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.060927</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.060927,-37.757149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heyington</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-90</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83466999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.02263400000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.022634,-37.83467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highett</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-91</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.948095999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.04163400000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.041634,-37.948096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holmesglen</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-92</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.874292999999966</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.091183</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.091183,-37.874293,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoppers Crossing</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-93</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.88326999999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.70104700000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.701047,-37.88327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hughesdale</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-94</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.89487699999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.0776400000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.07764,-37.894877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntingdale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-95</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.91099299999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.102398</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.102398,-37.910993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hurstbridge</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-96</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.639453</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.19208100000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.192081,-37.639453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ivanhoe</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-97</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.76892699999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.045391</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.045391,-37.768927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jacana</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-98</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.695133</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.91585600000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.915856,-37.695133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jewell</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-99</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77484999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.958749</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.958749,-37.77485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jolimont</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-100</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81649999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.983878</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.983878,-37.8165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jordanville</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-101</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.873598999999956</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.11208900000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.112089,-37.873599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kananook</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-102</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.121421</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.13550400000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.135504,-38.121421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kensington</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-103</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79348599999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.93046700000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.930467,-37.793486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keon Park</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-104</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.694511999999975</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.011937</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.011937,-37.694512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kooyong</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-105</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83982099999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03312100000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.033121,-37.839821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laburnum</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-106</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82091499999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.14050200000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.140502,-37.820915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lalor</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-107</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.66541599999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.01740800000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.017408,-37.665416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laverton</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-108</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86369399999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.7726150000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.772615,-37.863694,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leawarra</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-109</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.15180499999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.13889200000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.138892,-38.151805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lilydale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-110</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.755019000000004</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.34823100000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.348231,-37.755019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macaulay</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-111</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79457599999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.93611299999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.936113,-37.7945759999999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macleod</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-112</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.726291</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06910700000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.069107,-37.726291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malvern</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-113</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86624999999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.02929400000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.029294,-37.86625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mckinnon</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-114</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.91071299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03822300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.038223,-37.910713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Central</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-115</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.809699999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.963757</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.963757,-37.8097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mentone</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-116</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.98197499999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06524000000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.06524,-37.981975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merinda Park</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-117</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.07900999999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.26349100000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.263491,-38.07901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merlynston</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-118</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.72093699999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96131200000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.961312,-37.720937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merri</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-119</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77777299999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99299600000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.992996,-37.777773,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Middle Brighton</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-120</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.915134999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99629900000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.996299,-37.915135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Middle Footscray</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-121</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.802505999999994</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.8913100000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.89131,-37.802506,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mitcham</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-122</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81797799999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.19228099999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.192281,-37.817978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont Albert</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-123</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.819541999999956</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.10556000000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.10556,-37.819542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montmorency</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-124</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.715296999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.12151100000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.121511,-37.715297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moonee Ponds</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-125</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.76581299999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.91920200000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.919202,-37.765813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moorabbin</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-126</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.93482</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03668300000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.036683,-37.93482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mooroolbark</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-127</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78473599999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.31283600000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.312836,-37.784736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mordialloc</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-128</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.006508</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.08755400000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.087554,-38.006508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moreland</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-129</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.75434199999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96184800000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.961848,-37.754342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morradoo</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-130</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.353931999999986</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.18949900000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.189499,-38.353932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Waverley</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-131</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.87527399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.12841300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.128413,-37.875274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Murrumbeena</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-132</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.890266</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06733200000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.067332,-37.890266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Narre Warren</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-133</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.02764099999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.30360600000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.303606,-38.027641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watergardens</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-134</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.700717</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.77386</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.77386,-37.700717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newmarket</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-135</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78690499999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92888600000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.928886,-37.786905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newport</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-136</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.84271899999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.883604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.883604,-37.842719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noble Park</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-137</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.96723599999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.17693600000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.176936,-37.967236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Brighton</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-138</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.90491599999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00259500000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.002595,-37.904916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Melbourne</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-139</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.806735</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.94183099999998</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.941831,-37.806735,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Richmond</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-140</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81007599999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99255600000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.992556,-37.810076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Williamstown</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-141</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.85668099999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.88875700000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.888757,-37.856681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northcote</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-142</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.76986499999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9952820000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.995282,-37.769865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nunawading</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-143</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.820719999999994</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.174174</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.174174,-37.82072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Park</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-144</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.718046999999956</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92153500000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.921535,-37.718047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakleigh</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-145</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.900368999999955</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.08831400000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.088314,-37.900369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Officer</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-146</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.066142999999954</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.41099300000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.410993,-38.066143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ormond</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-147</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.903606999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.039531</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.039531,-37.903607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pakenham</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-148</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.080547999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.48651100000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.486511,-38.080548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parkdale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-149</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.99306999999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.07629600000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.076296,-37.99307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parliament</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-150</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.811928999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97340800000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.973408,-37.811929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pascoe Vale</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-151</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.73075499999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92819500000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.928195,-37.730755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Patterson</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-152</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.92550499999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.03546100000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.035461,-37.925505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prahran</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-153</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.849762999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98981700000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.989817,-37.849763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Preston</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-154</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.73873599999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00051600000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.000516,-37.738736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keilor Plains</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-155</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.729602</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.79381</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.79381,-37.729602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Regent</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-156</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.728602999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00273200000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.002732,-37.728603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reservoir</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-157</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.71701399999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00691900000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.006919,-37.7170139999999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richmond</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-158</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82396299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98957400000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.989574,-37.823963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringwood</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-159</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.815968999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.22881600000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.228816,-37.815969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringwood East</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-160</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81199499999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.24969</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.24969,-37.811995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ripponlea</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-161</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.875923</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.995226</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.995226,-37.875923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riversdale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-162</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83172399999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.069614</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.069614,-37.831724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosanna</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-163</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.74287199999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06611900000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.066119,-37.742872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Royal Park</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-164</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.781183</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.951868</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.951868,-37.781183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rushall</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-165</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78318299999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99241300000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.992413,-37.783183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruthven</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-166</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.70828899999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.00935800000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.009358,-37.708289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandown Park</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-167</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.95669399999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.163</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.163,-37.956694,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandringham</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-168</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.950256999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.004588</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.004588,-37.950257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seaford</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-169</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.10435799999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.12823300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.128233,-38.104358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seaholme</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-170</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86784299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.840958</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.840958,-37.867843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seddon</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-171</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80859299999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.89604300000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.896043,-37.808593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roxburgh Park</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-172</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.638004999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.935568</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.935568,-37.638005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Somerville</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-173</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.225495999999964</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.17635300000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.176353,-38.225496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Kensington</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-174</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79958999999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92532000000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.92532,-37.79959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Yarra</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-175</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83823799999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.992297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.992297,-37.838238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southern Cross</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-176</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.818354</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95219300000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.952193,-37.818354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spotswood</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-177</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83065099999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.885942</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.885942,-37.830651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Springvale</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-178</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.94937999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.153507</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.153507,-37.94938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St Albans</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-179</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.744872999999984</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.80007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.80007,-37.744873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stony Point</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-180</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.37405199999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.221141</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.221141,-38.3740519999999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strathmore</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-181</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.743592999999976</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92732</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.92732,-37.743593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunbury</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-182</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.57939099999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.72787700000003</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.727877,-37.579391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunshine</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-183</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78785099999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.83232400000009</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.832324,-37.787851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surrey Hills</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-184</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82405399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.09863900000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.098639,-37.824054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Syndal</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-185</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.87633099999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.14944400000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.149444,-37.876331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tecoma</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-186</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.90822599999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.34316</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.34316,-37.908226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thomastown</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-187</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.680296</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.01429400000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.014294,-37.680296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thornbury</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-188</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.75504799999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99857600000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.998576,-37.755048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toorak</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-189</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.85084699999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.01379300000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.013793,-37.850847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tooronga</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-190</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.849369999999965</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.04173400000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.041734,-37.84937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tottenham</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-191</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79925499999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.86294800000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.862948,-37.799255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tyabb</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-192</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.25996399999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.186512</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.186512,-38.259964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upfield</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-193</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.666075999999975</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.94674500000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.946745,-37.666076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper Ferntree Gully</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-194</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.89264799999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.30747000000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.30747,-37.892648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upwey</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-195</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.90369199999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.33133500000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.331335,-37.903692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Park</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-196</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79938099999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99440700000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.994407,-37.799381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watsonia</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-197</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.71137999999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.083389</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.083389,-37.71138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wattle Glen</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-198</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.66394199999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.18171400000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.181714,-37.663942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Werribee</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-199</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.89951099999996</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.66091300000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.660913,-37.899511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Footscray</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-200</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.801849000000004</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.88564800000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.885648,-37.801849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Richmond</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-201</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81445599999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99169600000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.991696,-37.814456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westall</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-202</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.938492</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.1388340000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.138834,-37.938492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westgarth</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-203</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.780619</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.999232</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.999232,-37.780619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westona</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-204</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86516599999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.8135010000001</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.813501,-37.865166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Williamstown</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-205</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86788199999995</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.90563500000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.905635,-37.867882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Williamstown Beach</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-206</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.86408399999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.894682</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.894682,-37.864084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Willison</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-207</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.835487</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.07014000000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.07014,-37.835487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-208</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.85582899999997</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.99173300000007</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.991733,-37.855829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yarraman</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-209</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.97814699999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.19175200000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.191752,-37.978147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yarraville</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-210</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81581299999999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.88997500000005</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.889975,-37.815813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coolaroo</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-211</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.661001</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.92605300000002</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.926053,-37.661001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Morang</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-212</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.64907599999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.06746800000008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.067468,-37.649076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lynbrook</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-213</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.057331999999974</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.24939100000006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.249391,-38.057332,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cardinia Road</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-214</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-38.071327</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.438088</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.438088,-38.071327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Williams Landing</name>
+      <description><![CDATA[infoDisplay: Dot Matrix<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-215</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>Dot Matrix</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.87009999999998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.74719400000004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.747194,-37.8701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aircraft</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-216</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.866603</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.760809</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.760809,-37.866603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flemington Racecourse</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-217</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.787585999999976</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.907196</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.907196,-37.787586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Showgrounds</name>
+      <description><![CDATA[infoDisplay: No<br>lift: No]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-218</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>No</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>No</value>
+        </Data>
+        <Data name="lift">
+          <value>No</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.783551999999986</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.914982</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.914982,-37.783552,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southland</name>
+      <description><![CDATA[infoDisplay: LCD<br>lift: Yes]]></description>
+      <styleUrl>#icon-1716-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>STAT-219</value>
+        </Data>
+        <Data name="infoDisplay">
+          <value>LCD</value>
+        </Data>
+        <Data name="hearingLoop">
+          <value>Yes</value>
+        </Data>
+        <Data name="lift">
+          <value>Yes</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.958177999999975</value>
+        </Data>
+        <Data name="longitude">
+          <value>145.048673</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.048673,-37.958178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

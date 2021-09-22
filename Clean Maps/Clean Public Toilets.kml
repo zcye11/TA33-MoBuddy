@@ -1,0 +1,2028 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Public Toilets</name>
+    <Style id="icon-1733-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/toilet.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1733-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/toilet.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1733-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1733-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1733-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Flinders Street Station</name>
+      <description><![CDATA[address: Flinders Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4363.0</value>
+        </Data>
+        <Data name="address">
+          <value>Flinders Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81823386</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9669741</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9669741,-37.81823386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Central City Loop</name>
+      <description><![CDATA[address: La Trobe Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4367.0</value>
+        </Data>
+        <Data name="address">
+          <value>La Trobe Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon-Sat 5:30am-12am, Sun 8:30am-11pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80981201</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9628186</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9628186,-37.80981201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flagstaff City Loop</name>
+      <description><![CDATA[address: La Trobe Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4395.0</value>
+        </Data>
+        <Data name="address">
+          <value>La Trobe Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon-Fri 5:30am-12am</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8119569</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9561421</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9561421,-37.8119569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Town Hall</name>
+      <description><![CDATA[address: 200 Collins Street<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11517.0</value>
+        </Data>
+        <Data name="address">
+          <value>200 Collins Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 7am-7pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81514484</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96694425</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96694425,-37.81514484,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>General Post Office (Underground)</name>
+      <description><![CDATA[address: Elizabeth & Bourke Street<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11518.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Elizabeth & Bourke Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon-Fri 7:30am-6pm, Sat-Sun 8:30am-5pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81380315</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96313336</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96313336,-37.81380315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yarra River Bank</name>
+      <description><![CDATA[address: Batman Avenue<br>gender: Unisex<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11521.0</value>
+        </Data>
+        <Data name="address">
+          <value>Batman Avenue</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82100129</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97594036</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97594036,-37.82100129,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toilet 3 : Queensbridge Street</name>
+      <description><![CDATA[address: Queensbridge Street & Flinders Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11522.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Queensbridge Street & Flinders Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>Currently closed</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81940044</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96128142</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96128142,-37.81940044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Trobe Street</name>
+      <description><![CDATA[address: La trobe Street & Russell Street<br>gender: Male<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11528.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[La trobe Street & Russell Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80891248</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96567163</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96567163,-37.80891248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders Street</name>
+      <description><![CDATA[address: Exhibition Street & Flinders Street<br>gender: Male<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11532.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Exhibition Street & Flinders Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81598252</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97282423</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97282423,-37.81598252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queensberry Street</name>
+      <description><![CDATA[address: 278-284 Queensberry Street<br>gender: Male<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11535.0</value>
+        </Data>
+        <Data name="address">
+          <value>278-284 Queensberry Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8039452</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95905008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95905008,-37.8039452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>585 Lonsdale Street</name>
+      <description><![CDATA[address: King Street & Lonsdale Street<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11538.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[King Street & Lonsdale Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81434326</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95511454</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95511454,-37.81434326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bowen Crescent Reserve</name>
+      <description><![CDATA[address: Bowen Crescent<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11981.0</value>
+        </Data>
+        <Data name="address">
+          <value>Bowen Crescent</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Daylight hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83553499</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97331236</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97331236,-37.83553499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverslide Skate Park</name>
+      <description><![CDATA[address: 1 Boathouse Drive<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>12601.0</value>
+        </Data>
+        <Data name="address">
+          <value>1 Boathouse Drive</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8203652</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9733432</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9733432,-37.8203652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Domain</name>
+      <description><![CDATA[address: Alexandra Avenue<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>12602.0</value>
+        </Data>
+        <Data name="address">
+          <value>Alexandra Avenue</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8228095</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9751411</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9751411,-37.8228095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kings Domain Shrine of Remembrance</name>
+      <description><![CDATA[address: Kings Domain South 44-200 Domain Road MELBOURNE VIC 3004<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>12604.0</value>
+        </Data>
+        <Data name="address">
+          <value>Kings Domain South 44-200 Domain Road MELBOURNE VIC 3004</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 6am-9pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83058305</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9753548</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9753548,-37.83058305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Pier - Outer West</name>
+      <description><![CDATA[address: Pier Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>13626.0</value>
+        </Data>
+        <Data name="address">
+          <value>Pier Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>Currently closed</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8461487</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9306358</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9306358,-37.8461487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Exhibition Street & Lonsdale Street]]></name>
+      <description><![CDATA[address: Lonsdale Street & Exhibition Street<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>16974.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Lonsdale Street & Exhibition Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81002923</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96992451</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96992451,-37.81002923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Swanston Street & Victoria Street]]></name>
+      <description><![CDATA[address: Swanston Street<br>gender: Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>17333.0</value>
+        </Data>
+        <Data name="address">
+          <value>Swanston Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 7am-5pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80686945</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96265666</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96265666,-37.80686945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Toilet 4 : Market Street & Collins Street]]></name>
+      <description><![CDATA[address: Market Street & Collins Street<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>17608.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Market Street & Collins Street]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>Currently closed</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81756139</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96030886</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96030886,-37.81756139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Government House Drive</name>
+      <description><![CDATA[address: Government House Drive, Kings Domain<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>17674.0</value>
+        </Data>
+        <Data name="address">
+          <value>Government House Drive, Kings Domain</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8269196</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9746481</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9746481,-37.8269196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Exhibition Street</name>
+      <description><![CDATA[address: Across from 265 Exhibition Street<br>gender: Male<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>17678.0</value>
+        </Data>
+        <Data name="address">
+          <value>Across from 265 Exhibition Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8094781</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96934102</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96934102,-37.8094781,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collins Place</name>
+      <description><![CDATA[address: 45 Collins Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>18175.0</value>
+        </Data>
+        <Data name="address">
+          <value>45 Collins Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.814009</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.972077</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.972077,-37.814009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Market</name>
+      <description><![CDATA[address: Corner Elizabeth & Victoria Streets<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>18237.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Corner Elizabeth & Victoria Streets]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon,Thu 2am-3pm, Tue,Thu-Fri 2am-5pm, Sat-Sun 2am-7pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80682305</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95881386</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95881386,-37.80682305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QV</name>
+      <description><![CDATA[address: Corner Lonsdale & Swanston Streets<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>18239.0</value>
+        </Data>
+        <Data name="address">
+          <value><![CDATA[Corner Lonsdale & Swanston Streets]]></value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon-Thu 10am-6pm, Fri 10am-9pm, Sat-Sun 10am-6pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81080858</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96497675</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96497675,-37.81080858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Walk Arcade</name>
+      <description><![CDATA[address: Bourke Street<br>gender: Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>18253.0</value>
+        </Data>
+        <Data name="address">
+          <value>Bourke Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>True</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Mon-Wed,Sat 9am-5pm, Thu 9am-7pm, Fri 9am-9pm, Sun 10am-5pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81421293</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96431337</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96431337,-37.81421293,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batman Park</name>
+      <description><![CDATA[address: Spencer Street<br>gender: Unisex<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>19310.0</value>
+        </Data>
+        <Data name="address">
+          <value>Spencer Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 6am-12am</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82168484</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95561464</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95561464,-37.82168484,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Domain Road</name>
+      <description><![CDATA[address: 169 Domain Road<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>19316.0</value>
+        </Data>
+        <Data name="address">
+          <value>169 Domain Road</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83389707</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98175356</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98175356,-37.83389707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Franklin Street</name>
+      <description><![CDATA[address: 465 Elizabeth Street<br>gender: Information not available<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>19324.0</value>
+        </Data>
+        <Data name="address">
+          <value>465 Elizabeth Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Information not available</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80823705</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96018328</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96018328,-37.80823705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nursery</name>
+      <description><![CDATA[address: Birdwood Avenue<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>34699.0</value>
+        </Data>
+        <Data name="address">
+          <value>Birdwood Avenue</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8324347</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97975147</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97975147,-37.8324347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Touchwood</name>
+      <description><![CDATA[address: Alexandra Avenue<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>34701.0</value>
+        </Data>
+        <Data name="address">
+          <value>Alexandra Avenue</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82951167</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98209556</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98209556,-37.82951167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Commercial Road</name>
+      <description><![CDATA[address: 55 Commercial Rd<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40017.0</value>
+        </Data>
+        <Data name="address">
+          <value>55 Commercial Rd</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.84520425</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98262523</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98262523,-37.84520425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fawkner Park</name>
+      <description><![CDATA[address: 152-154 Toorak Rd West<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40095.0</value>
+        </Data>
+        <Data name="address">
+          <value>152-154 Toorak Rd West</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83820341</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98444042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98444042,-37.83820341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Park</name>
+      <description><![CDATA[address: Alexandra Avenue<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40097.0</value>
+        </Data>
+        <Data name="address">
+          <value>Alexandra Avenue</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82761036</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98183252</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98183252,-37.82761036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders Street</name>
+      <description><![CDATA[address: 245 Flinders St<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40219.0</value>
+        </Data>
+        <Data name="address">
+          <value>245 Flinders St</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81792284</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96633052</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96633052,-37.81792284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Street</name>
+      <description><![CDATA[address: 113 Queen St<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40225.0</value>
+        </Data>
+        <Data name="address">
+          <value>113 Queen St</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81584891</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96108042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96108042,-37.81584891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lonsdale Street</name>
+      <description><![CDATA[address: 424 Lonsdale St<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40227.0</value>
+        </Data>
+        <Data name="address">
+          <value>424 Lonsdale St</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81294323</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96002925</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96002925,-37.81294323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourke Street</name>
+      <description><![CDATA[address: 225 Bourke St<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40267.0</value>
+        </Data>
+        <Data name="address">
+          <value>225 Bourke St</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8132531</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9669585</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9669585,-37.8132531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>David Jones - Bourke Street</name>
+      <description><![CDATA[address: 310 Bourke Street<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>40497.0</value>
+        </Data>
+        <Data name="address">
+          <value>310 Bourke Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.813309</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.964402</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.964402,-37.813309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Gardens</name>
+      <description><![CDATA[address: Linlithgow Avenue Melbourne<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>42185.0</value>
+        </Data>
+        <Data name="address">
+          <value>Linlithgow Avenue Melbourne</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82294755</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97100365</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97100365,-37.82294755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Airport West Service Centre</name>
+      <description><![CDATA[address: 10 Louis Street<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>42421.0</value>
+        </Data>
+        <Data name="address">
+          <value>10 Louis Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.714511</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.888713</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.888713,-37.714511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Market</name>
+      <description><![CDATA[address: 456 Queen Street<br>gender: Unisex<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43191.0</value>
+        </Data>
+        <Data name="address">
+          <value>456 Queen Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Sat-Sun 4am-7pm, Tue,Thu-Fri 4am-5pm, Wed 6am-9:50pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80788846</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95795284</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95795284,-37.80788846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birrarung Marr Park</name>
+      <description><![CDATA[address: Princes Walk Melbourne<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43193.0</value>
+        </Data>
+        <Data name="address">
+          <value>Princes Walk Melbourne</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81860384</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97113538</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97113538,-37.81860384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Market</name>
+      <description><![CDATA[address: 159 Victoria Street<br>gender: Male, Female<br>access: Information not available]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43197.0</value>
+        </Data>
+        <Data name="address">
+          <value>159 Victoria Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Tue,Thu-Fri 6am-5pm, Sat-Sun 6am-7pm, Wed 8am-9:50pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Information not available</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8063998</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9590201</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9590201,-37.8063998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queen Victoria Market</name>
+      <description><![CDATA[address: 153 Victoria Street MELBOURNE VIC 3000<br>gender: Unisex<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>43201.0</value>
+        </Data>
+        <Data name="address">
+          <value>153 Victoria Street MELBOURNE VIC 3000</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Wed 5am-3pm, Mon 5am-4pm, Tue,Thu-Fri 3am-5pm, Sat-Sun 3am-7pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80616528</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95668888</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95668888,-37.80616528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sofitel Melbourne on Collins</name>
+      <description><![CDATA[address: 25 Collins Street<br>gender: Male, Female<br>access: Accessible (Left-Hand Transfer)]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>50677.0</value>
+        </Data>
+        <Data name="address">
+          <value>25 Collins Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Daylight hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible (Left-Hand Transfer)</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8141189</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9728415</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9728415,-37.8141189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>271 Spring Street</name>
+      <description><![CDATA[address: 271 Spring Street<br>gender: Unisex<br>access: Accessible (Right-Hand Transfer)]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>54089.0</value>
+        </Data>
+        <Data name="address">
+          <value>271 Spring Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Daylight hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Unisex</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible (Right-Hand Transfer)</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80879095</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.97113212</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.97113212,-37.80879095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rod Laver Arena</name>
+      <description><![CDATA[address: Olympic Boulevard<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>54111.0</value>
+        </Data>
+        <Data name="address">
+          <value>Olympic Boulevard</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Variable hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8216833</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9785474</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9785474,-37.8216833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alfred Hospital</name>
+      <description><![CDATA[address: 55 Commercial Road<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>55157.0</value>
+        </Data>
+        <Data name="address">
+          <value>55 Commercial Road</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 7am-8pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.84550871</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98205773</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98205773,-37.84550871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Central - Elizabeth Street</name>
+      <description><![CDATA[address: 360 Elizabeth Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>57106.0</value>
+        </Data>
+        <Data name="address">
+          <value>360 Elizabeth Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 24 hours</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81063448</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9623575</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9623575,-37.81063448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Central Food Court</name>
+      <description><![CDATA[address: 360 Elizabeth Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>57108.0</value>
+        </Data>
+        <Data name="address">
+          <value>360 Elizabeth Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: Sat-Wed 10am-7pm, Thu-Fri 10am-9pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81056667</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.96211074</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.96211074,-37.81056667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Atrium</name>
+      <description><![CDATA[address: Swanston Street<br>gender: Male, Female<br>access: Accessible]]></description>
+      <styleUrl>#icon-1733-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>57210.0</value>
+        </Data>
+        <Data name="address">
+          <value>Swanston Street</value>
+        </Data>
+        <Data name="keyRequired">
+          <value>False</value>
+        </Data>
+        <Data name="openHours">
+          <value>OPEN: 6am-11:30pm</value>
+        </Data>
+        <Data name="parkInfo">
+          <value>No Parking, Parking Accessible</value>
+        </Data>
+        <Data name="gender">
+          <value>Male, Female</value>
+        </Data>
+        <Data name="access">
+          <value>Accessible</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8174181</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9694638</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9694638,-37.8174181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

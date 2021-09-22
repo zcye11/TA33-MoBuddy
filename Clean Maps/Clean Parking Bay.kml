@@ -1,0 +1,2685 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Parking Bay</name>
+    <Style id="icon-1644-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/parking-car.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1644-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/zcye11/TA33-MoBuddy/main/KML%20icons/parking-car.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1644-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1644-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1644-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Queensberry Street</name>
+      <description><![CDATA[reference: Between Lothian Street and Dryburgh Street<br>description: 3P DIS ONLY M-SUN 7:30am-6:30pm   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>8457.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Lothian Street and Dryburgh Street</value>
+        </Data>
+        <Data name="description">
+          <value>3P DIS ONLY M-SUN 7:30am-6:30pm   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80252188</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9439773</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9439773,-37.80252188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicholson Street</name>
+      <description><![CDATA[reference: Between Kay Street and Princes Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>595.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Kay Street and Princes Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79433556</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9753764</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9753764,-37.79433556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queensberry Street</name>
+      <description><![CDATA[reference: Between Lothian Street and Dryburgh Street<br>description: 3P DIS ONLY M-SUN 7:30am-6:30pm   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>8456.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Lothian Street and Dryburgh Street</value>
+        </Data>
+        <Data name="description">
+          <value>3P DIS ONLY M-SUN 7:30am-6:30pm   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80252973</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9440485</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9440485,-37.80252973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bent Street</name>
+      <description><![CDATA[reference: Between Chelmsford Street and Hardiman Street<br>description: 2P Disabled Only   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6615.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Chelmsford Street and Hardiman Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P Disabled Only   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79609508</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9351518</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9351518,-37.79609508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flinders Lane</name>
+      <description><![CDATA[reference: Between Swanston Street and Elizabeth Street<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6081.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Swanston Street and Elizabeth Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81700912</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9652259</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9652259,-37.81700912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Georgiana Street</name>
+      <description><![CDATA[reference: Between McCrae Street and Collins Street<br>description: 2P DIS AOT 0:00-7:002P DIS AOT 0:00-23:592P DIS AOT 9:30-23:59 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2305.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between McCrae Street and Collins Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS AOT 0:00-7:002P DIS AOT 0:00-23:592P DIS AOT 9:30-23:59 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82171016</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9504441</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9504441,-37.82171016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Kay Street and Princes Street<br>description: 4P DIS 7.30-8.30P DIS ONLY 20.30 - 23.59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>690.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Kay Street and Princes Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS 7.30-8.30P DIS ONLY 20.30 - 23.59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79505341</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9743352</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9743352,-37.79505341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6087.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82099149</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.98818</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.98818,-37.82099149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Molesworth Street</name>
+      <description><![CDATA[reference: Between Harker Street and Abbotsford Street<br>description: P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6181.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Harker Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79794095</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.948589</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.948589,-37.79794095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Road</name>
+      <description><![CDATA[reference: Between Mercantile Parade and Hobsons Road<br>description: 2P DIS M-F 9.00-18.30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2708.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Mercantile Parade and Hobsons Road</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 9.00-18.30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79778162</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9214577</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9214577,-37.79778162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: 4P DIS ONLY M-SUN   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5085.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS ONLY M-SUN   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82113435</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9880012</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9880012,-37.82113435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miller Street</name>
+      <description><![CDATA[reference: Between Curzon Street and Abbotsford Street<br>description: 4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4668.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Curzon Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80571598</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9457526</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9457526,-37.80571598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Domain Road</name>
+      <description><![CDATA[reference: Between Marne Street and Walsh Street<br>description: 1P DIS M-SUN 7:00-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3717.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Marne Street and Walsh Street</value>
+        </Data>
+        <Data name="description">
+          <value>1P DIS M-SUN 7:00-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83452521</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9851954</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9851954,-37.83452521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queensberry Street</name>
+      <description><![CDATA[reference: Between Curzon Street and Abbotsford Street<br>description: 2P DIS ONLY   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3285.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Curzon Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8025768</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9461671</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9461671,-37.8025768,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorimer Street</name>
+      <description><![CDATA[reference: Between West Gate Bridge and Todd Road<br>description: 4P DIS ONLY M-SUN   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4244.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between West Gate Bridge and Todd Road</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS ONLY M-SUN   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82399676</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9075079</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9075079,-37.82399676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stanley Street</name>
+      <description><![CDATA[reference: Between Railway Place and Adderley Street<br>description: 4P DIS ONLY M-SUN   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5084.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Railway Place and Adderley Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS ONLY M-SUN   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.810402</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9455107</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9455107,-37.810402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Trobe Street</name>
+      <description><![CDATA[reference: Between King Street and Spencer Street<br>description: 4P Dis 7.30am - 6.30pm M-Sat ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>8834.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between King Street and Spencer Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P Dis 7.30am - 6.30pm M-Sat </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8126186</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9536216</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9536216,-37.8126186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lonsdale Street</name>
+      <description><![CDATA[reference: Between Elizabeth Street and Queen Street<br>description: 4P Dis 7.30am - 6.30pm M-Sat   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>8835.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Elizabeth Street and Queen Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P Dis 7.30am - 6.30pm M-Sat   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81293492</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.960076</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.960076,-37.81293492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bent Street</name>
+      <description><![CDATA[reference: Between Chelmsford Street and Hardiman Street<br>description: 2P DIS ONLY 7.30 - 20.30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3059.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Chelmsford Street and Hardiman Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79612955</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9351539</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9351539,-37.79612955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salmon Street</name>
+      <description><![CDATA[reference: Between Turner Street and Lorimer Street<br>description: 2P DIS ONLY 7.30-18.30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6559.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Turner Street and Lorimer Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30-18.30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82128383</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9208418</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9208418,-37.82128383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Lygon Street and Keppel Street<br>description: 2P DIS 7.30 - 8.30PMP DIS AOT 8:31PM-11:59PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1894.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Lygon Street and Keppel Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS 7.30 - 8.30PMP DIS AOT 8:31PM-11:59PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79591072</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9670263</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9670263,-37.79591072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Domain Road</name>
+      <description><![CDATA[reference: Between Marne Street and Walsh Street<br>description: 1P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2651.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Marne Street and Walsh Street</value>
+        </Data>
+        <Data name="description">
+          <value>1P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83444365</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9845567</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9845567,-37.83444365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Georgiana Street</name>
+      <description><![CDATA[reference: Between McCrae Street and Collins Street<br>description: 2P DIS M-F 9.30 - 8.30PMP DIS AOT 8:31PM-11:59PM2P DIS SAT - SUN 7.30 TO 20.30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2306.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between McCrae Street and Collins Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 9.30 - 8.30PMP DIS AOT 8:31PM-11:59PM2P DIS SAT - SUN 7.30 TO 20.30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8217614</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9504849</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9504849,-37.8217614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grattan Street</name>
+      <description><![CDATA[reference: Between Drummond Street and Lygon Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2018.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Drummond Street and Lygon Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80093673</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9680419</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9680419,-37.80093673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1297.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79645375</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9718476</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9718476,-37.79645375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arden Street</name>
+      <description><![CDATA[reference: Between Curzon Street and Abbotsford Street<br>description: 1P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2689.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Curzon Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>1P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8005056</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9464275</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9464275,-37.8005056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Story Street</name>
+      <description><![CDATA[reference: Between Park Drive and Gatehouse Street<br>description: 3P Disable AOT   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5884.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Park Drive and Gatehouse Street</value>
+        </Data>
+        <Data name="description">
+          <value>3P Disable AOT   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79648665</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9532228</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9532228,-37.79648665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jolimont Road</name>
+      <description><![CDATA[reference: Between Brunton Avenue and Wellington Parade South<br>description: 3P DIS ONLY M-F 7:30 - 16:003P DIS ONLY SAT 7:30-12:30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5672.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Brunton Avenue and Wellington Parade South</value>
+        </Data>
+        <Data name="description">
+          <value>3P DIS ONLY M-F 7:30 - 16:003P DIS ONLY SAT 7:30-12:30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81764867</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9788937</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9788937,-37.81764867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cardigan Street</name>
+      <description><![CDATA[reference: Between Faraday Street and Elgin Street<br>description: P DIS AOT 20:30 TO 23:592P DIS M-F 7:30-16:002P DIS M-F 18:30-20:302P DIS SAT - SUN 7.30 TO 20.30]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2362.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Faraday Street and Elgin Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS M-F 7:30-16:002P DIS M-F 18:30-20:302P DIS SAT - SUN 7.30 TO 20.30</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79820925</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9657434</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9657434,-37.79820925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barwise Street</name>
+      <description><![CDATA[reference: From Laurens Street<br>description: 2P DIS ONLY   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3284.0</value>
+        </Data>
+        <Data name="reference">
+          <value>From Laurens Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80066618</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9405271</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9405271,-37.80066618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Curzon Street</name>
+      <description><![CDATA[reference: Between Victoria Street and Elm Street<br>description: 2P DIS M-F 7:30-16:001P M-F 6:30PM-10PM1P SAT-SUN 7:30AM-10PM ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>7900.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Victoria Street and Elm Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-16:001P M-F 6:30PM-10PM1P SAT-SUN 7:30AM-10PM </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80429072</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9480155</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9480155,-37.80429072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faraday Street</name>
+      <description><![CDATA[reference: Between Nicholson Street and Canning Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1015.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Nicholson Street and Canning Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79945374</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9736131</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9736131,-37.79945374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorimer Street</name>
+      <description><![CDATA[reference: Between Westgate Freeway and Hartley Street<br>description: 2P DIS M-F 7:30-16:002P DIS M-F 18:30-19:302P DIS SAT 7:30-19:302P DIS SUN 7:30-18:30]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2288.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Westgate Freeway and Hartley Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-16:002P DIS M-F 18:30-19:302P DIS SAT 7:30-19:302P DIS SUN 7:30-18:30</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82503432</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9455349</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9455349,-37.82503432,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: 2P DIS 7.30AM TO 8.30PMP DIS AOT 8:31PM-11:59PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1810.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS 7.30AM TO 8.30PMP DIS AOT 8:31PM-11:59PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80926611</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.95641</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.95641,-37.80926611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1535.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79631023</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9715901</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9715901,-37.79631023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elgin Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1919.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79776939</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9723</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9723,-37.79776939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keppel Street</name>
+      <description><![CDATA[reference: Between Cardigan Street and Swanston Street<br>description: P DIS ONLY 20.30 - 23.59P DISABLE AOT 0:00 TO 7:302P DIS 7.30AM TO 8.30PM ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1726.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Cardigan Street and Swanston Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.59P DISABLE AOT 0:00 TO 7:302P DIS 7.30AM TO 8.30PM </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79445413</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9656355</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9656355,-37.79445413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Nicholson Street and Station Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1589.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Nicholson Street and Station Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79681905</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9745659</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9745659,-37.79681905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Nicholson Street and Station Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>873.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Nicholson Street and Station Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79664975</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9747266</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9747266,-37.79664975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Palmerston Street and Kay Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>589.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Palmerston Street and Kay Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79575275</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9743428</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9743428,-37.79575275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keppel Street</name>
+      <description><![CDATA[reference: Between Cardigan Street and Swanston Street<br>description: P DIS ONLY 20.30 - 23.59P DISABLE AOT 0:00 TO 7:302P DIS 7.30AM TO 8.30PM ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1727.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Cardigan Street and Swanston Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.59P DISABLE AOT 0:00 TO 7:302P DIS 7.30AM TO 8.30PM </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79451236</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9654187</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9654187,-37.79451236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4345.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78395854</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9441546</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9441546,-37.78395854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1538.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79642466</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9726424</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9726424,-37.79642466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tennyson Street</name>
+      <description><![CDATA[reference: Between Bellair Street and Southey Street<br>description: 2P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3723.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Bellair Street and Southey Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79734015</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9310947</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9310947,-37.79734015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Street</name>
+      <description><![CDATA[reference: Between Oak Street and West Coburg Tramway<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3352.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Oak Street and West Coburg Tramway</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77646567</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9470355</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9470355,-37.77646567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alexandra Avenue</name>
+      <description><![CDATA[reference: Between Anderson Street and Walsh Street<br>description: 2P DIS M-F 7:30-18:302P DIS SAT 7:30-12:30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3721.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Anderson Street and Walsh Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-18:302P DIS SAT 7:30-12:30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82907007</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9863646</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9863646,-37.82907007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Palmerston Street and Kay Street<br>description: 2P DIS 7.30 - 8.30PM   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>868.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Palmerston Street and Kay Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS 7.30 - 8.30PM   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79643325</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9742262</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9742262,-37.79643325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummond Street</name>
+      <description><![CDATA[reference: Between Victoria Street and Queensberry Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1472.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Victoria Street and Queensberry Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80562391</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9674813</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9674813,-37.80562391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicholson Street</name>
+      <description><![CDATA[reference: Between Faraday Street and Barkly Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS ONLY 20.30 - 23.59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1431.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Faraday Street and Barkly Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS ONLY 20.30 - 23.59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79902926</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.974577</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.974577,-37.79902926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorimer Street</name>
+      <description><![CDATA[reference: Between Westgate Freeway and Hartley Street<br>description: 2P DIS M-F 7:30-16:002P DIS M-F 18:30-19:302P DIS SAT 7:30-19:302P DIS SUN 7:30-18:30]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2287.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Westgate Freeway and Hartley Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-16:002P DIS M-F 18:30-19:302P DIS SAT 7:30-19:302P DIS SUN 7:30-18:30</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82504056</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9456407</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9456407,-37.82504056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Royal Parade</name>
+      <description><![CDATA[reference: Between Morrah Street and Story Street<br>description: P Dis 18.30 - 23.592P DIS M-SAT 7:30-18:30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6273.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Morrah Street and Story Street</value>
+        </Data>
+        <Data name="description">
+          <value>P Dis 18.30 - 23.592P DIS M-SAT 7:30-18:30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7963218</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.957751</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.957751,-37.7963218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Palmerston Street and Kay Street<br>description: 2P DIS 7.30 - 8.30PM   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>869.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Palmerston Street and Kay Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS 7.30 - 8.30PM   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79592087</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9743142</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9743142,-37.79592087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Willis Street</name>
+      <description><![CDATA[reference: Between Stockmans Way and The Crescent<br>description: P DIS Sun 00:00 - 11:59PM4P Dis 7.30am - 6.30pm M-SatP DIS M-Sat 6.30-11.59 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6405.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Stockmans Way and The Crescent</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS Sun 00:00 - 11:59PM4P Dis 7.30am - 6.30pm M-SatP DIS M-Sat 6.30-11.59 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79360481</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.918642</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.918642,-37.79360481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kay Street</name>
+      <description><![CDATA[reference: Between Station Street and Canning Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1920.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Station Street and Canning Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30AM TO 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79529463</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9740407</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9740407,-37.79529463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barkly Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: P DISABLE AOT 0:00 TO 7:30P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1031.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DISABLE AOT 0:00 TO 7:30P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80024544</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9708944</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9708944,-37.80024544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Henderson Street</name>
+      <description><![CDATA[reference: Between Fogarty Street and Gracie Street<br>description: 4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4611.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Fogarty Street and Gracie Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79756165</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.93925</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.93925,-37.79756165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Street</name>
+      <description><![CDATA[reference: Between Mason Street and Randall Place<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6035.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Mason Street and Randall Place</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.8360346</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9822052</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9822052,-37.8360346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorimer Street</name>
+      <description><![CDATA[reference: Between West Gate Bridge and Todd Road<br>description: P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6330.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between West Gate Bridge and Todd Road</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS Sun 00:00 - 11:59PMP DIS M-Sat 6.30-11.592P DIS M-SAT 7:30-18:30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82763445</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9023539</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9023539,-37.82763445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummond Street</name>
+      <description><![CDATA[reference: Between Victoria Street and Queensberry Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1471.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Victoria Street and Queensberry Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80586061</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9674421</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9674421,-37.80586061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baillie Street</name>
+      <description><![CDATA[reference: Between Curzon Street and Abbotsford Street<br>description: 4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4617.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Curzon Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80141394</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9472258</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9472258,-37.80141394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wellington Crescent</name>
+      <description><![CDATA[reference: From Wellington Parade South<br>description: P DIS M-Sat 6.30-11.59P DIS Sun 00:00 - 11:59PM4P DIS 7.30am - 6.30pm2P DIS M-SAT 7:30-18:30]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6086.0</value>
+        </Data>
+        <Data name="reference">
+          <value>From Wellington Parade South</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS M-Sat 6.30-11.59P DIS Sun 00:00 - 11:59PM4P DIS 7.30am - 6.30pm2P DIS M-SAT 7:30-18:30</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81727198</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9780287</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9780287,-37.81727198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abbotsford Street</name>
+      <description><![CDATA[reference: Between Adderley Street and Ireland Street<br>description: 4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4613.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Adderley Street and Ireland Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80737161</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9439946</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9439946,-37.80737161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmerston Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1543.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79641742</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9725769</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9725769,-37.79641742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Altona Street</name>
+      <description><![CDATA[reference: Between Ormond Street and Kensington Road<br>description: 4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4615.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Ormond Street and Kensington Road</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS M-F 7.30-6.304P DIS SAT 7.30-12.30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7964094</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9248889</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9248889,-37.7964094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummond Street</name>
+      <description><![CDATA[reference: Between Victoria Street and Queensberry Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1470.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Victoria Street and Queensberry Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80591439</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9674329</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9674329,-37.80591439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queensberry Street</name>
+      <description><![CDATA[reference: Between Chetwynd Street and Leveson Street<br>description: 2P DIS ONLY   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3283.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Chetwynd Street and Leveson Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80337172</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9516321</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9516321,-37.80337172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faraday Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59P DISABLE AOT 0:00 TO 7:30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>674.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59P DISABLE AOT 0:00 TO 7:30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79920605</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9713274</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9713274,-37.79920605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elgin Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.304P DIS ONLY AOT  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1009.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.304P DIS ONLY AOT  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79765603</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9712557</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9712557,-37.79765603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elgin Street</name>
+      <description><![CDATA[reference: Between Canning Street and Rathdowne Street<br>description: 2P DIS ONLY 7.30 - 20.304P DIS ONLY AOT  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1007.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Canning Street and Rathdowne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.304P DIS ONLY AOT  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.7975693</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9721924</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9721924,-37.7975693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummond Street</name>
+      <description><![CDATA[reference: Between Victoria Street and Queensberry Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1473.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Victoria Street and Queensberry Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80557024</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9674905</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9674905,-37.80557024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faraday Street</name>
+      <description><![CDATA[reference: Between Drummond Street and Lygon Street<br>description: P DIS AOT 20:30 TO 23:592P DIS M-F 7:30-16:002P DIS M-F 18:30-20:302P DIS SAT - SUN 7.30 TO 20.30]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2359.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Drummond Street and Lygon Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS M-F 7:30-16:002P DIS M-F 18:30-20:302P DIS SAT - SUN 7.30 TO 20.30</value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79871307</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9685082</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9685082,-37.79871307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawke Street</name>
+      <description><![CDATA[reference: Between Spencer Street and Miller Street<br>description: 2P DIS ONLY M-SUN 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6067.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Spencer Street and Miller Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY M-SUN 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80636569</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9477479</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9477479,-37.80636569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Street</name>
+      <description><![CDATA[reference: Between Oak Street and West Coburg Tramway<br>description: 1P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2691.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Oak Street and West Coburg Tramway</value>
+        </Data>
+        <Data name="description">
+          <value>1P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77651134</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9467242</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9467242,-37.77651134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Kay Street and Princes Street<br>description: 2PDis AOT 9.30 - 23.59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2325.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Kay Street and Princes Street</value>
+        </Data>
+        <Data name="description">
+          <value>2PDis AOT 9.30 - 23.59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79434095</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9744587</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9744587,-37.79434095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Station Street</name>
+      <description><![CDATA[reference: Between Kay Street and Princes Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>874.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Kay Street and Princes Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79499864</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9743447</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9743447,-37.79499864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: 2P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3724.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79433274</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9198078</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9198078,-37.79433274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abbotsford Street</name>
+      <description><![CDATA[reference: Between Ireland Street and Spencer Street<br>description: 2P DISABLE 7:30-22:00   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6254.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Ireland Street and Spencer Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DISABLE 7:30-22:00   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80706909</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9443409</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9443409,-37.80706909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Road</name>
+      <description><![CDATA[reference: Between Altona Street and Mercantile Parade<br>description: P DISABLE AOT 0:00 TO 7:302P DIS 7.30 - 8.30PMP DIS AOT 8:31PM-11:59PM ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>7855.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Altona Street and Mercantile Parade</value>
+        </Data>
+        <Data name="description">
+          <value>P DISABLE AOT 0:00 TO 7:302P DIS 7.30 - 8.30PMP DIS AOT 8:31PM-11:59PM </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79680391</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9231597</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9231597,-37.79680391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorimer Street</name>
+      <description><![CDATA[reference: Between West Gate Bridge and Todd Road<br>description: 4P DIS ONLY M-SUN   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4245.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between West Gate Bridge and Todd Road</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS ONLY M-SUN   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82424041</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.907076</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.907076,-37.82424041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Domain Road</name>
+      <description><![CDATA[reference: Between Marne Street and Walsh Street<br>description: 1/2P DIS   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6040.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Marne Street and Walsh Street</value>
+        </Data>
+        <Data name="description">
+          <value>1/2P DIS   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83445195</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9846213</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9846213,-37.83445195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Henry Street</name>
+      <description><![CDATA[reference: Between Derby Street and Altona Street<br>description: 3P Disable AOT   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5889.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Derby Street and Altona Street</value>
+        </Data>
+        <Data name="description">
+          <value>3P Disable AOT   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79583725</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9261715</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9261715,-37.79583725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Road Seg Desc unknown</name>
+      <description><![CDATA[reference: Road Seg Desc unknown<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4347.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Road Seg Desc unknown</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.82113242</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9880833</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9880833,-37.82113242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spring Street</name>
+      <description><![CDATA[reference: Between Little Collins Street and Bourke Street<br>description: P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>4346.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Little Collins Street and Bourke Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS AOT 20:30 TO 23:592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81193478</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9734293</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9734293,-37.81193478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Intersection of Cardigan Street and Keppel Street</name>
+      <description><![CDATA[reference: Intersection of Cardigan Street and Keppel Street<br>description: 2P DIS M-SUN 7:30-19:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1728.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Intersection of Cardigan Street and Keppel Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SUN 7:30-19:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79552982</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9662048</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9662048,-37.79552982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Royal Parade</name>
+      <description><![CDATA[reference: Between Ievers Street and Park Street<br>description: 4P DIS ONLY M-SUN   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>3543.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Ievers Street and Park Street</value>
+        </Data>
+        <Data name="description">
+          <value>4P DIS ONLY M-SUN   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77991186</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9597754</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9597754,-37.77991186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roden Street</name>
+      <description><![CDATA[reference: Between Adderley Street and Spencer Street<br>description: 2P DIS M-F 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2650.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Adderley Street and Spencer Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80823409</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9472183</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9472183,-37.80823409,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourke Street</name>
+      <description><![CDATA[reference: Between Russell Street and Swanston Street<br>description: 2P DIS ONLY M-SAT 7:30-20:302P DIS ONLY SUN 7:30-18:30  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1762.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Russell Street and Swanston Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY M-SAT 7:30-20:302P DIS ONLY SUN 7:30-18:30  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.81294645</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9673435</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9673435,-37.81294645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faraday Street</name>
+      <description><![CDATA[reference: Between Rathdowne Street and Drummond Street<br>description: 2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59P DISABLE AOT 0:00 TO 7:30 ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>673.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Rathdowne Street and Drummond Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY 7.30 - 20.30P DIS AOT 20:30 TO 23:59P DISABLE AOT 0:00 TO 7:30 </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79901801</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9695997</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9695997,-37.79901801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Street</name>
+      <description><![CDATA[reference: Between West Coburg Tramway and Royal Parade<br>description: 2P DIS M-F 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>5025.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between West Coburg Tramway and Royal Parade</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-F 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.77775311</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9570352</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9570352,-37.77775311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Millswyn Street</name>
+      <description><![CDATA[reference: Between Toorak Road and St Martins Lane<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6027.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Toorak Road and St Martins Lane</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83633463</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.980168</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.980168,-37.83633463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canning Street</name>
+      <description><![CDATA[reference: Between Faraday Street and Elgin Street<br>description: P DIS ONLY 20.30 - 23.592P DIS 7.30 - 8.30PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>1672.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Faraday Street and Elgin Street</value>
+        </Data>
+        <Data name="description">
+          <value>P DIS ONLY 20.30 - 23.592P DIS 7.30 - 8.30PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79831999</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9729062</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9729062,-37.79831999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haines Street</name>
+      <description><![CDATA[reference: Between Curzon Street and Abbotsford Street<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6080.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Curzon Street and Abbotsford Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79856452</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.947258</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.947258,-37.79856452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Benjamin Street</name>
+      <description><![CDATA[reference: Between Story Street and Morrah Street<br>description: 2P DIS 7.30AM TO 8.30PMP DIS AOT 8:31PM-11:59PM  ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>2738.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Story Street and Morrah Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS 7.30AM TO 8.30PMP DIS AOT 8:31PM-11:59PM  </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79625486</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9553634</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9553634,-37.79625486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albert Street</name>
+      <description><![CDATA[reference: Between Nicholson Street and Gisborne Street<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6173.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Nicholson Street and Gisborne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80957471</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9750716</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9750716,-37.80957471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slater Street</name>
+      <description><![CDATA[reference: From St Kilda Road<br>description: 2P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6237.0</value>
+        </Data>
+        <Data name="reference">
+          <value>From St Kilda Road</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.83878189</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.977682</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.977682,-37.83878189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southgate Street</name>
+      <description><![CDATA[reference: Between Flemington Road and Manningham Street<br>description: 2P DIS ONLY M-SUN 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6466.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Flemington Road and Manningham Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS ONLY M-SUN 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.78853535</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9431638</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9431638,-37.78853535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albert Street</name>
+      <description><![CDATA[reference: Between Nicholson Street and Gisborne Street<br>description: 2P DIS M-SAT 7:30-18:30   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6174.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Nicholson Street and Gisborne Street</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SAT 7:30-18:30   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.80958942</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.9752052</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.9752052,-37.80958942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wimble Street</name>
+      <description><![CDATA[reference: Between Morrah Street and Park Drive<br>description: 2P DIS M-SUN 0:00-23:59   ]]></description>
+      <styleUrl>#icon-1644-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>6224.0</value>
+        </Data>
+        <Data name="reference">
+          <value>Between Morrah Street and Park Drive</value>
+        </Data>
+        <Data name="description">
+          <value>2P DIS M-SUN 0:00-23:59   </value>
+        </Data>
+        <Data name="latitude">
+          <value>-37.79475573</value>
+        </Data>
+        <Data name="longitude">
+          <value>144.955799</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          144.955799,-37.79475573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
